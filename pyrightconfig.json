@@ -1,0 +1,10 @@
+{
+  "venvPath": "c:\\Users\\HP",
+  "venv": ".venv",
+  "extraPaths": [
+    "ml-service",
+    "ml-service/app"
+  ],
+  "reportMissingImports": "warning"
+}
+

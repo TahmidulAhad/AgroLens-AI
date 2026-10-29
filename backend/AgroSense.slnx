@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AgroSense.API/AgroSense.API.csproj" />
+    <Project Path="src/AgroSense.Application/AgroSense.Application.csproj" />
+    <Project Path="src/AgroSense.Domain/AgroSense.Domain.csproj" />
+    <Project Path="src/AgroSense.Infrastructure/AgroSense.Infrastructure.csproj" />
+  </Folder>
+</Solution>
