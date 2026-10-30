@@ -1,0 +1,19 @@
+{
+  "features": [
+    "soil_moisture",
+    "temperature",
+    "humidity"
+  ],
+  "classes": [
+    "High",
+    "Low",
+    "Medium"
+  ],
+  "feature_importances": {
+    "soil_moisture": 0.695649309220898,
+    "temperature": 0.14772654737707194,
+    "humidity": 0.1566241434020301
+  },
+  "model_type": "RandomForest",
+  "accuracy": 0.9475
+}
