@@ -1,0 +1,2001 @@
+soil_moisture,temperature,humidity,water_stress_risk,irrigation_recommendation
+38.71,22.85,62.9,Medium,Monitor
+90.56,22.41,80.41,Low,No Action
+70.88,42.19,77.01,Low,No Action
+58.88,22.49,31.54,Low,No Action
+19.04,23.16,31.19,High,Irrigation Needed
+19.04,37.78,40.11,High,Irrigation Needed
+10.23,28.49,47.08,High,Irrigation Needed
+82.96,38.3,50.63,Low,No Action
+59.1,16.96,70.98,Low,No Action
+68.73,29.63,24.25,Low,No Action
+6.85,16.01,22.6,High,Irrigation Needed
+92.29,16.88,49.39,Low,No Action
+79.92,42.19,72.29,Low,No Action
+24.11,19.18,34.51,High,Irrigation Needed
+21.36,30.97,68.11,High,Irrigation Needed
+21.51,27.33,39.49,High,Irrigation Needed
+32.38,25.42,86.46,Medium,Monitor
+52.23,42.0,87.18,Low,No Action
+43.88,15.65,42.3,Low,No Action
+31.21,34.91,37.25,Medium,Monitor
+60.07,43.9,50.85,Low,No Action
+17.55,31.81,38.04,High,Irrigation Needed
+31.29,43.1,70.43,Medium,Monitor
+37.97,16.57,81.95,Medium,Monitor
+46.05,27.56,70.48,Low,No Action
+75.67,22.8,81.83,Low,No Action
+22.97,36.92,49.77,High,Irrigation Needed
+51.28,44.44,31.72,Low,No Action
+58.32,22.7,75.35,Low,No Action
+9.18,34.63,47.04,High,Irrigation Needed
+59.68,20.94,70.35,Low,No Action
+20.35,31.96,40.3,High,Irrigation Needed
+10.85,28.92,26.09,High,Irrigation Needed
+90.4,44.16,94.44,Low,No Action
+91.91,33.26,31.72,Low,No Action
+77.76,25.49,94.13,Low,No Action
+32.42,18.42,93.3,Medium,Monitor
+13.79,19.54,79.54,Medium,Monitor
+66.58,21.76,69.46,Low,No Action
+44.61,22.53,63.34,Low,No Action
+15.98,40.52,84.96,High,Irrigation Needed
+49.57,31.84,41.71,Low,No Action
+8.09,30.7,55.08,High,Irrigation Needed
+86.84,18.44,66.45,Low,No Action
+28.29,40.8,50.84,High,Irrigation Needed
+64.63,36.68,52.06,Low,No Action
+33.05,17.03,44.77,Medium,Monitor
+51.81,36.24,62.32,Low,No Action
+54.2,31.31,83.79,Low,No Action
+21.64,17.45,35.11,High,Irrigation Needed
+92.26,28.75,90.08,Low,No Action
+74.76,29.54,71.68,Low,No Action
+89.55,19.97,81.75,Low,No Action
+85.53,43.37,61.71,Low,No Action
+58.81,40.5,78.46,Low,No Action
+87.97,35.07,21.22,Low,No Action
+12.96,28.87,81.38,Medium,Monitor
+22.64,27.35,23.01,High,Irrigation Needed
+9.07,34.53,86.74,High,Irrigation Needed
+34.28,31.36,94.4,Medium,Monitor
+39.98,16.87,42.06,Medium,Monitor
+29.42,30.38,35.77,High,Irrigation Needed
+79.59,39.19,77.4,Low,No Action
+37.11,28.78,38.98,Medium,Monitor
+30.28,16.56,84.92,Medium,Monitor
+53.84,38.59,27.71,Low,No Action
+17.68,21.04,29.45,High,Irrigation Needed
+77.2,22.76,93.44,Low,No Action
+11.71,19.94,70.54,Medium,Monitor
+93.82,24.91,83.52,Low,No Action
+74.5,37.7,44.32,Low,No Action
+22.88,30.58,70.74,High,Irrigation Needed
+5.5,21.15,64.57,Medium,Monitor
+78.39,41.33,65.24,Low,No Action
+68.62,41.39,71.19,Low,No Action
+70.61,41.12,63.15,High,Irrigation Needed
+74.41,22.16,52.18,Low,No Action
+11.66,28.54,40.69,High,Irrigation Needed
+37.26,44.55,77.64,Medium,Monitor
+15.43,38.16,36.97,High,Irrigation Needed
+82.68,15.82,71.93,Low,No Action
+61.1,16.96,37.5,Low,No Action
+34.78,28.92,66.9,Medium,Monitor
+10.72,42.28,76.03,High,Irrigation Needed
+32.99,31.16,36.4,Medium,Monitor
+34.27,29.93,24.5,Medium,Monitor
+70.66,18.16,29.82,Low,No Action
+62.38,34.7,65.45,Low,No Action
+84.85,39.66,83.71,High,Irrigation Needed
+47.5,26.41,23.37,Low,No Action
+15.76,38.27,75.06,High,Irrigation Needed
+69.19,43.93,45.6,Low,No Action
+73.47,21.11,55.89,Low,No Action
+55.51,30.7,89.66,Low,No Action
+74.39,23.61,44.9,Low,No Action
+49.44,38.79,54.9,Low,No Action
+52.05,32.33,21.03,Low,No Action
+43.48,34.04,26.12,Medium,Monitor
+7.29,38.94,39.39,High,Irrigation Needed
+14.71,26.88,22.09,High,Irrigation Needed
+7.83,42.45,67.35,High,Irrigation Needed
+62.28,30.99,51.98,Low,No Action
+33.29,19.74,61.11,Medium,Monitor
+50.77,35.88,33.1,Low,No Action
+86.68,38.8,42.19,Low,No Action
+27.44,24.5,69.79,Medium,Monitor
+41.93,40.72,92.4,Medium,Monitor
+73.0,42.18,23.78,Low,No Action
+25.59,23.31,86.78,Medium,Monitor
+11.93,44.51,63.27,High,Irrigation Needed
+31.08,19.22,62.29,Medium,Monitor
+19.51,21.06,57.52,Medium,Monitor
+88.67,20.53,25.2,Low,No Action
+77.73,41.82,26.74,Low,No Action
+62.01,34.63,65.07,Low,No Action
+83.43,19.56,45.57,Low,No Action
+77.33,28.21,88.8,Low,No Action
+21.79,33.46,50.49,High,Irrigation Needed
+85.33,17.5,30.75,Low,No Action
+53.54,41.47,73.6,Low,No Action
+77.67,39.11,42.0,High,Irrigation Needed
+85.65,30.16,59.41,Low,No Action
+33.62,44.01,72.34,Medium,Monitor
+14.9,27.53,87.52,Medium,Monitor
+25.51,44.52,79.41,High,Irrigation Needed
+43.44,35.04,70.73,Medium,Monitor
+78.62,34.04,70.97,Low,No Action
+82.47,19.98,90.94,Low,No Action
+5.63,41.46,42.19,High,Irrigation Needed
+50.97,27.82,20.08,Low,No Action
+42.57,19.87,40.4,Low,No Action
+24.99,15.38,36.34,High,Irrigation Needed
+15.79,31.79,69.64,High,Irrigation Needed
+35.39,30.82,67.53,Medium,Monitor
+89.86,36.58,64.51,Low,No Action
+34.09,41.71,21.22,Medium,Monitor
+51.69,17.38,74.66,Low,No Action
+68.27,36.94,44.26,Low,No Action
+37.73,20.62,69.88,Medium,Monitor
+92.46,40.75,61.74,Low,No Action
+91.62,39.57,45.7,Low,No Action
+27.66,31.22,30.09,High,Irrigation Needed
+49.75,36.31,27.08,Low,No Action
+32.08,24.43,82.36,Medium,Monitor
+30.64,29.14,88.88,Medium,Monitor
+8.32,39.65,68.73,High,Irrigation Needed
+59.86,28.78,27.76,Low,No Action
+50.24,25.73,50.15,Low,No Action
+9.63,29.83,74.67,Medium,Monitor
+30.08,39.85,78.49,Medium,Monitor
+86.74,25.06,28.87,Low,No Action
+26.56,20.21,20.0,High,Irrigation Needed
+18.04,36.36,73.41,Low,No Action
+49.05,39.78,46.74,Low,No Action
+93.71,18.02,39.09,Low,No Action
+26.78,22.2,20.97,High,Irrigation Needed
+65.49,19.26,60.52,Low,No Action
+73.55,25.44,83.84,Low,No Action
+26.39,28.51,91.82,High,Irrigation Needed
+70.54,37.46,62.43,Low,No Action
+38.1,34.53,58.58,Medium,Monitor
+61.91,33.63,26.38,Low,No Action
+62.02,25.57,61.17,Low,No Action
+53.22,40.24,48.5,Low,No Action
+13.13,29.14,65.54,Medium,Monitor
+80.18,44.37,49.15,Low,No Action
+33.87,34.02,38.02,Medium,Monitor
+21.79,18.79,27.12,High,Irrigation Needed
+8.67,35.29,43.62,High,Irrigation Needed
+58.18,24.75,27.25,Low,No Action
+65.98,35.59,33.27,Low,No Action
+6.49,17.09,94.05,Medium,Monitor
+51.09,20.25,53.31,Low,No Action
+25.38,40.67,59.89,High,Irrigation Needed
+63.07,21.82,85.52,Low,No Action
+20.69,40.11,94.67,High,Irrigation Needed
+67.18,23.38,63.7,Low,No Action
+39.81,34.29,80.94,Medium,Monitor
+89.31,35.82,44.52,Low,No Action
+17.38,30.38,42.93,High,Irrigation Needed
+35.7,24.16,50.2,Low,No Action
+15.21,21.38,70.44,Medium,Monitor
+88.22,16.0,71.16,Low,No Action
+83.96,24.12,43.64,Low,No Action
+28.21,34.59,29.99,High,Irrigation Needed
+64.4,43.15,67.43,Low,No Action
+78.55,41.14,29.62,Low,No Action
+54.97,37.98,63.39,Low,No Action
+52.67,38.65,72.01,Low,No Action
+26.77,34.95,72.55,High,Irrigation Needed
+13.38,22.81,76.51,Medium,Monitor
+85.75,42.22,85.46,Low,No Action
+86.04,35.12,57.5,Low,No Action
+61.98,31.81,74.77,Low,No Action
+35.51,18.33,66.44,Medium,Monitor
+36.43,28.41,34.0,Medium,Monitor
+70.34,28.81,21.93,Low,No Action
+85.74,40.94,41.34,Low,No Action
+84.84,31.4,53.23,Low,No Action
+75.19,26.41,66.28,Low,No Action
+62.78,44.3,83.75,Low,No Action
+12.57,18.32,34.72,High,Irrigation Needed
+19.55,27.68,29.42,High,Irrigation Needed
+85.87,16.26,92.26,Low,No Action
+59.58,37.2,28.1,Low,No Action
+5.83,42.54,55.89,High,Irrigation Needed
+14.13,23.4,63.92,Medium,Monitor
+64.72,40.75,60.6,Low,No Action
+5.46,23.77,26.45,High,Irrigation Needed
+19.47,42.32,24.28,High,Irrigation Needed
+54.39,37.62,27.91,Low,No Action
+67.27,39.15,63.92,Low,No Action
+63.68,15.54,60.83,Low,No Action
+25.18,43.88,37.53,High,Irrigation Needed
+69.1,36.8,67.83,Low,No Action
+26.35,24.14,81.51,Medium,Monitor
+34.29,39.88,23.12,Medium,Monitor
+72.18,23.45,57.36,Low,No Action
+63.47,41.18,71.7,Low,No Action
+81.43,18.38,38.92,Low,No Action
+64.19,36.11,43.08,Low,No Action
+56.15,31.22,66.02,Low,No Action
+13.43,17.9,87.35,Medium,Monitor
+38.09,22.26,80.74,Medium,Monitor
+28.87,15.37,63.73,Medium,Monitor
+26.96,29.06,74.77,Medium,Monitor
+92.57,24.04,47.36,Low,No Action
+40.38,32.95,68.07,Medium,Monitor
+85.28,23.92,54.96,Low,No Action
+61.8,24.0,34.25,Low,No Action
+76.53,37.3,72.63,Low,No Action
+50.24,16.44,61.73,Low,No Action
+56.92,42.09,46.9,Low,No Action
+49.33,40.57,88.35,Low,No Action
+22.57,35.03,21.57,High,Irrigation Needed
+70.02,32.8,43.68,Low,No Action
+30.27,41.77,24.27,Medium,Monitor
+7.19,20.56,77.49,Medium,Monitor
+63.09,17.37,72.66,Low,No Action
+20.94,22.19,44.85,High,Irrigation Needed
+89.64,38.84,70.67,Low,No Action
+90.85,16.04,49.7,Low,No Action
+87.34,32.48,76.72,Low,No Action
+38.31,44.86,54.06,Medium,Monitor
+6.39,40.67,50.92,High,Irrigation Needed
+88.55,30.64,90.1,Low,No Action
+43.54,16.91,38.82,Low,No Action
+92.0,39.94,29.03,Low,No Action
+91.73,32.97,63.84,High,Irrigation Needed
+81.77,18.45,92.7,Low,No Action
+31.5,17.82,48.34,Low,No Action
+39.66,42.29,24.65,Medium,Monitor
+81.6,35.08,45.45,Low,No Action
+33.52,39.88,57.94,Medium,Monitor
+20.25,41.37,32.14,High,Irrigation Needed
+55.11,32.15,69.36,Low,No Action
+89.25,30.52,94.83,Low,No Action
+67.64,27.91,53.88,Low,No Action
+56.31,24.51,46.6,Low,No Action
+13.75,28.04,50.05,Medium,Monitor
+60.35,38.22,28.64,Low,No Action
+94.1,33.06,86.25,Low,No Action
+17.61,41.78,51.11,High,Irrigation Needed
+51.65,28.3,49.05,Low,No Action
+83.96,33.21,69.48,Low,No Action
+71.67,33.94,53.15,Low,No Action
+67.73,32.75,68.62,Low,No Action
+68.22,36.08,24.61,Low,No Action
+37.35,22.12,81.03,Medium,Monitor
+31.42,30.37,90.54,Medium,Monitor
+77.84,18.13,68.66,Low,No Action
+77.91,26.54,91.59,Low,No Action
+83.04,29.63,31.36,Low,No Action
+87.19,34.57,55.81,Low,No Action
+51.02,43.52,65.14,Low,No Action
+50.14,33.02,63.63,Low,No Action
+76.85,37.31,50.11,Low,No Action
+63.5,30.19,45.36,Low,No Action
+68.18,34.02,29.51,Low,No Action
+76.62,17.13,49.38,Low,No Action
+85.1,22.63,32.2,Low,No Action
+35.42,25.86,75.08,Medium,Monitor
+38.8,29.17,35.66,Medium,Monitor
+13.46,16.37,24.39,High,Irrigation Needed
+57.05,19.2,61.43,Low,No Action
+8.23,23.3,64.64,Medium,Monitor
+46.9,44.15,85.39,Low,No Action
+53.84,24.94,63.27,Low,No Action
+30.79,29.46,45.91,Medium,Monitor
+58.17,20.88,80.23,Low,No Action
+7.75,33.32,60.52,High,Irrigation Needed
+8.36,23.42,25.95,High,Irrigation Needed
+79.03,21.21,62.44,Low,No Action
+37.42,30.5,88.1,High,Irrigation Needed
+16.44,15.17,49.72,High,Irrigation Needed
+52.0,15.23,42.22,Low,No Action
+74.3,21.57,30.76,Low,No Action
+24.42,16.1,31.36,High,Irrigation Needed
+61.06,18.24,52.46,Low,No Action
+12.68,25.17,64.68,Medium,Monitor
+9.65,39.08,26.05,High,Irrigation Needed
+52.82,32.16,90.47,Low,No Action
+53.66,30.38,76.64,Low,No Action
+62.37,23.8,64.0,Low,No Action
+70.35,42.95,82.13,Low,No Action
+92.83,26.91,26.01,Low,No Action
+51.47,17.61,55.76,Low,No Action
+34.07,33.51,67.26,Medium,Monitor
+76.57,18.42,82.15,Low,No Action
+29.37,25.36,78.76,Medium,Monitor
+44.51,30.22,40.78,Low,No Action
+12.06,41.23,90.57,High,Irrigation Needed
+7.28,29.81,29.33,High,Irrigation Needed
+91.64,36.07,85.64,Low,No Action
+80.24,44.78,92.82,Low,No Action
+67.64,18.94,33.29,Low,No Action
+41.81,23.24,74.15,Low,No Action
+20.6,26.84,23.02,High,Irrigation Needed
+19.08,27.65,50.41,Medium,Monitor
+27.52,27.33,58.72,Medium,Monitor
+54.43,42.23,63.55,Low,No Action
+69.31,36.42,90.2,High,Irrigation Needed
+64.42,33.24,70.42,Low,No Action
+30.19,24.28,56.1,Medium,Monitor
+90.94,39.71,80.73,Low,No Action
+71.41,43.65,91.29,Low,No Action
+54.89,39.64,21.65,Low,No Action
+60.05,15.05,93.69,Low,No Action
+42.76,34.09,26.46,Medium,Monitor
+27.3,16.53,81.08,Medium,Monitor
+37.04,22.73,41.03,Medium,Monitor
+73.21,16.79,29.91,Low,No Action
+6.3,33.11,52.99,High,Irrigation Needed
+15.45,35.6,68.3,High,Irrigation Needed
+9.14,18.43,48.57,High,Irrigation Needed
+8.67,26.52,24.09,High,Irrigation Needed
+81.99,28.69,64.96,Low,No Action
+68.33,26.07,87.68,Low,No Action
+47.68,18.63,48.74,Low,No Action
+13.81,27.57,36.22,High,Irrigation Needed
+49.25,37.54,53.19,Low,No Action
+47.61,17.13,23.63,Low,No Action
+20.59,17.41,81.54,High,Irrigation Needed
+44.05,25.64,81.98,Low,No Action
+40.87,43.25,64.1,Medium,Monitor
+60.43,35.06,46.48,Low,No Action
+62.16,35.36,79.98,Low,No Action
+9.08,25.86,61.6,Medium,Monitor
+38.72,32.81,81.94,Medium,Monitor
+61.33,15.3,67.36,Low,No Action
+50.28,34.08,78.83,Low,No Action
+82.08,42.4,64.89,Low,No Action
+64.28,33.38,51.06,Low,No Action
+19.66,41.21,91.85,High,Irrigation Needed
+11.35,36.72,60.58,High,Irrigation Needed
+62.82,18.62,65.38,Low,No Action
+7.39,42.07,36.54,High,Irrigation Needed
+57.72,16.99,66.92,Low,No Action
+89.62,31.02,62.87,Low,No Action
+56.79,19.26,33.86,Low,No Action
+39.94,15.35,24.47,Medium,Monitor
+62.9,27.66,65.33,Low,No Action
+46.24,23.85,77.28,Low,No Action
+54.11,29.58,59.26,Low,No Action
+89.73,32.32,37.01,Low,No Action
+39.75,16.31,69.99,Low,No Action
+91.51,18.69,26.01,Low,No Action
+86.48,31.76,53.14,Low,No Action
+22.62,25.3,32.25,High,Irrigation Needed
+11.24,36.88,33.83,High,Irrigation Needed
+14.07,34.57,35.17,High,Irrigation Needed
+6.64,40.37,49.0,High,Irrigation Needed
+13.5,35.77,23.84,High,Irrigation Needed
+66.47,27.9,49.83,Low,No Action
+11.41,35.19,58.38,High,Irrigation Needed
+33.71,23.26,56.25,Medium,Monitor
+81.04,24.19,48.71,Low,No Action
+7.09,38.67,82.94,High,Irrigation Needed
+78.3,28.39,30.9,Low,No Action
+30.37,38.95,57.93,Medium,Monitor
+15.63,39.67,24.65,High,Irrigation Needed
+67.71,40.73,25.34,Low,No Action
+61.6,42.5,63.04,Low,No Action
+83.97,27.93,62.45,Low,No Action
+71.16,24.57,85.85,Low,No Action
+77.31,32.47,61.84,Low,No Action
+30.38,26.14,91.98,Medium,Monitor
+20.97,33.03,23.65,High,Irrigation Needed
+72.56,36.17,27.35,Low,No Action
+77.62,35.65,23.3,Low,No Action
+94.15,26.24,33.9,Low,No Action
+42.14,20.01,60.6,Low,No Action
+38.48,27.92,68.42,Medium,Monitor
+74.88,19.28,23.42,Low,No Action
+35.67,41.7,90.95,Medium,Monitor
+88.77,25.38,83.16,Low,No Action
+82.26,19.63,42.25,Medium,Monitor
+43.61,15.76,25.79,Low,No Action
+72.58,34.37,32.74,Low,No Action
+72.91,34.11,29.52,High,Irrigation Needed
+14.28,25.22,29.25,High,Irrigation Needed
+86.23,17.15,58.89,Low,No Action
+50.47,27.29,38.44,Low,No Action
+79.38,24.34,46.86,Low,No Action
+33.8,35.31,94.21,Medium,Monitor
+85.6,33.17,71.32,Low,No Action
+40.03,25.94,91.17,Low,No Action
+5.98,21.54,30.69,High,Irrigation Needed
+86.48,44.64,48.66,Low,No Action
+13.22,28.62,61.6,Medium,Monitor
+33.74,35.65,25.76,Medium,Monitor
+90.51,19.22,20.31,Low,No Action
+90.55,29.57,70.28,Low,No Action
+56.61,15.83,68.14,Low,No Action
+61.87,30.16,50.81,Low,No Action
+45.36,43.92,56.72,Low,No Action
+31.39,26.53,51.16,Medium,Monitor
+34.58,16.17,21.8,Medium,Monitor
+65.53,15.93,45.15,Low,No Action
+72.71,26.64,33.28,Low,No Action
+76.24,19.8,27.38,Low,No Action
+76.07,15.7,91.75,Low,No Action
+13.21,37.69,64.95,High,Irrigation Needed
+49.5,28.76,74.65,Low,No Action
+10.18,23.68,43.65,High,Irrigation Needed
+54.46,42.0,49.49,Low,No Action
+44.74,18.48,37.77,Low,No Action
+84.89,43.68,27.27,Low,No Action
+36.58,24.42,33.43,High,Irrigation Needed
+15.54,41.65,79.81,High,Irrigation Needed
+17.87,33.09,70.82,High,Irrigation Needed
+73.54,39.8,61.02,Low,No Action
+60.64,44.52,55.63,Low,No Action
+14.1,23.65,89.18,Medium,Monitor
+12.57,43.83,25.46,High,Irrigation Needed
+68.09,26.68,41.05,Low,No Action
+11.55,26.57,46.25,High,Irrigation Needed
+78.97,25.21,78.68,Medium,Monitor
+68.56,31.24,94.44,Low,No Action
+12.32,19.62,38.05,High,Irrigation Needed
+12.64,31.61,85.57,High,Irrigation Needed
+93.8,31.25,82.3,Low,No Action
+38.68,37.86,36.85,Medium,Monitor
+38.36,40.01,49.95,Medium,Monitor
+78.15,28.21,50.73,Medium,Monitor
+90.25,24.07,93.37,Low,No Action
+93.74,22.78,33.57,Low,No Action
+72.8,20.84,79.94,Low,No Action
+38.86,16.73,45.06,Medium,Monitor
+12.52,25.27,74.82,Medium,Monitor
+74.94,23.11,51.5,Low,No Action
+55.26,43.99,63.38,Low,No Action
+43.18,31.73,82.45,Low,No Action
+86.57,25.42,80.31,Low,No Action
+15.01,32.41,84.98,High,Irrigation Needed
+49.34,19.18,24.47,Low,No Action
+6.02,28.32,71.9,Medium,Monitor
+47.18,33.79,30.5,Low,No Action
+10.07,29.67,51.19,Medium,Monitor
+15.69,27.05,61.14,Medium,Monitor
+15.58,44.82,50.21,High,Irrigation Needed
+63.43,41.41,58.97,Low,No Action
+72.14,33.7,94.74,Low,No Action
+57.5,32.08,30.14,Low,No Action
+91.6,33.62,70.66,Low,No Action
+38.74,21.04,49.7,Medium,Monitor
+30.71,26.85,29.98,Medium,Monitor
+83.17,16.18,31.91,Low,No Action
+25.12,29.27,91.2,Medium,Monitor
+91.69,31.29,85.97,Low,No Action
+6.09,21.83,88.03,Medium,Monitor
+92.29,43.92,94.36,Low,No Action
+8.88,42.28,35.62,High,Irrigation Needed
+85.2,36.66,46.66,Low,No Action
+52.49,31.0,70.19,Low,No Action
+94.37,41.1,56.29,Low,No Action
+11.64,18.92,51.38,Medium,Monitor
+54.85,38.72,46.84,Low,No Action
+92.24,18.74,64.53,Low,No Action
+52.08,38.83,63.17,Low,No Action
+61.65,23.27,32.11,Low,No Action
+67.62,41.31,55.38,Low,No Action
+45.91,43.32,61.51,Low,No Action
+61.48,19.46,62.77,Low,No Action
+57.59,28.88,35.76,Low,No Action
+86.1,44.43,75.67,Low,No Action
+9.09,29.5,21.89,High,Irrigation Needed
+30.29,40.91,46.61,Medium,Monitor
+90.54,32.66,78.52,Low,No Action
+85.12,26.26,62.29,High,Irrigation Needed
+46.01,23.57,39.59,Low,No Action
+60.81,21.1,72.12,Low,No Action
+29.96,37.85,62.55,High,Irrigation Needed
+21.93,26.6,79.72,Medium,Monitor
+46.73,30.34,75.13,Low,No Action
+36.8,29.77,65.76,Medium,Monitor
+57.53,32.32,56.61,Low,No Action
+12.0,40.97,29.99,High,Irrigation Needed
+92.7,44.42,39.6,Low,No Action
+93.76,27.23,51.43,Low,No Action
+67.83,39.83,64.95,Low,No Action
+53.25,37.94,58.53,Low,No Action
+32.86,32.21,41.61,Medium,Monitor
+78.24,43.68,20.48,Low,No Action
+66.63,21.01,57.22,Low,No Action
+19.64,18.28,41.42,High,Irrigation Needed
+86.98,40.62,75.1,Low,No Action
+79.03,28.17,21.8,Low,No Action
+90.48,40.41,63.86,Low,No Action
+70.31,41.79,90.61,Low,No Action
+60.21,16.87,33.08,Low,No Action
+42.64,41.5,55.37,High,Irrigation Needed
+88.95,28.45,26.86,Low,No Action
+82.95,30.31,66.93,Low,No Action
+9.07,33.8,61.29,High,Irrigation Needed
+7.37,42.79,50.55,High,Irrigation Needed
+38.88,15.57,59.1,Medium,Monitor
+77.95,29.31,87.24,Low,No Action
+93.85,35.63,34.72,Low,No Action
+18.54,36.68,21.69,High,Irrigation Needed
+58.47,35.78,84.62,Low,No Action
+39.28,19.03,63.28,Medium,Monitor
+92.29,23.98,86.8,Low,No Action
+80.79,25.76,64.77,Low,No Action
+80.45,39.13,80.76,Low,No Action
+47.18,23.36,52.23,Low,No Action
+42.33,21.32,76.24,Low,No Action
+29.61,43.72,88.48,High,Irrigation Needed
+10.07,15.27,62.91,Medium,Monitor
+82.83,44.93,33.56,Low,No Action
+78.16,35.3,40.16,Low,No Action
+94.97,39.85,34.9,Low,No Action
+94.7,23.84,38.51,Low,No Action
+54.99,15.43,42.98,Low,No Action
+74.21,37.14,61.64,Low,No Action
+90.03,40.02,64.1,Low,No Action
+81.47,37.21,51.99,Low,No Action
+27.26,19.29,66.16,Medium,Monitor
+45.55,37.6,26.12,Low,No Action
+16.62,38.07,26.58,High,Irrigation Needed
+90.86,34.76,32.89,Low,No Action
+59.56,37.98,58.86,Low,No Action
+25.58,40.38,36.05,High,Irrigation Needed
+65.45,33.41,41.25,Low,No Action
+60.63,17.66,50.02,Low,No Action
+37.23,29.63,80.89,Medium,Monitor
+15.22,17.33,21.04,High,Irrigation Needed
+65.44,27.23,68.7,Low,No Action
+51.83,27.21,70.17,Low,No Action
+74.51,16.98,79.9,Low,No Action
+51.81,25.46,89.96,Low,No Action
+81.7,18.33,21.51,Low,No Action
+54.67,39.25,31.53,Low,No Action
+55.48,43.43,86.46,Low,No Action
+83.9,17.17,54.39,Low,No Action
+41.31,43.65,62.34,Medium,Monitor
+17.06,30.68,69.73,High,Irrigation Needed
+7.59,23.99,70.93,Medium,Monitor
+72.96,17.31,89.88,Low,No Action
+60.83,30.02,94.77,Low,No Action
+68.37,38.84,74.01,Low,No Action
+24.17,36.21,41.54,High,Irrigation Needed
+17.27,16.51,85.98,Medium,Monitor
+6.31,17.19,23.69,High,Irrigation Needed
+36.55,27.09,37.33,Medium,Monitor
+58.09,23.86,87.3,Low,No Action
+40.3,21.97,39.21,Low,No Action
+44.37,23.43,36.55,Low,No Action
+86.37,39.1,30.36,Low,No Action
+36.34,42.88,84.43,Medium,Monitor
+51.26,27.15,57.5,Low,No Action
+75.53,42.18,70.62,Low,No Action
+40.69,24.64,37.93,Low,No Action
+60.99,29.29,76.85,Low,No Action
+82.61,21.78,77.0,Low,No Action
+90.46,34.21,43.44,Low,No Action
+18.24,44.37,50.8,High,Irrigation Needed
+88.39,33.1,35.73,Low,No Action
+49.29,25.73,93.24,Low,No Action
+28.24,34.43,68.42,High,Irrigation Needed
+46.32,18.69,90.09,Low,No Action
+93.2,41.66,42.75,Low,No Action
+49.34,30.09,78.64,Low,No Action
+34.59,28.48,77.44,Medium,Monitor
+62.01,32.58,71.87,Low,No Action
+26.61,33.74,92.42,High,Irrigation Needed
+11.83,17.15,49.52,High,Irrigation Needed
+16.6,35.48,29.8,High,Irrigation Needed
+16.52,22.26,70.38,Medium,Monitor
+18.67,36.42,74.7,High,Irrigation Needed
+17.49,39.68,63.13,High,Irrigation Needed
+62.68,39.12,35.51,Low,No Action
+21.37,31.58,57.83,High,Irrigation Needed
+36.11,30.61,43.41,Medium,Monitor
+85.71,19.29,52.06,Low,No Action
+47.66,38.26,68.39,Low,No Action
+65.08,23.14,75.89,Low,No Action
+20.51,29.9,37.42,High,Irrigation Needed
+22.31,23.53,50.4,Medium,Monitor
+8.68,19.01,40.19,High,Irrigation Needed
+20.2,33.89,34.9,High,Irrigation Needed
+30.07,16.63,78.75,Medium,Monitor
+20.93,37.46,88.19,High,Irrigation Needed
+12.98,24.53,47.77,High,Irrigation Needed
+15.86,15.0,76.35,Medium,Monitor
+46.47,30.33,87.27,Low,No Action
+23.57,16.41,83.46,Medium,Monitor
+37.78,23.29,33.71,Medium,Monitor
+50.31,36.21,91.72,Low,No Action
+67.14,16.88,48.25,Low,No Action
+8.54,40.18,45.44,High,Irrigation Needed
+76.95,15.11,24.68,Low,No Action
+61.51,22.4,56.46,Low,No Action
+12.36,37.23,28.18,High,Irrigation Needed
+83.62,24.49,38.64,Low,No Action
+87.88,18.06,43.77,Low,No Action
+10.5,25.81,80.66,Medium,Monitor
+29.92,23.11,85.66,Medium,Monitor
+77.56,40.28,42.68,Low,No Action
+72.34,24.4,84.4,Low,No Action
+21.61,38.67,84.29,High,Irrigation Needed
+23.84,41.76,77.35,High,Irrigation Needed
+38.34,28.01,31.0,Medium,Monitor
+48.61,42.3,71.77,Low,No Action
+60.64,26.32,90.88,Low,No Action
+38.2,43.92,71.19,Medium,Monitor
+46.63,17.68,44.87,Low,No Action
+72.27,35.61,57.54,Low,No Action
+8.3,29.81,68.43,Medium,Monitor
+27.72,26.63,58.29,Medium,Monitor
+69.2,33.98,29.0,Low,No Action
+85.57,36.12,43.4,Low,No Action
+51.05,15.13,80.18,Low,No Action
+52.89,20.01,84.61,Low,No Action
+14.65,36.39,30.3,High,Irrigation Needed
+45.27,34.99,91.43,Low,No Action
+52.94,43.98,44.66,Low,No Action
+26.82,37.83,69.67,High,Irrigation Needed
+29.23,43.52,76.39,High,Irrigation Needed
+38.96,36.08,80.9,Medium,Monitor
+6.81,23.94,90.93,Medium,Monitor
+33.99,18.16,43.47,Medium,Monitor
+24.03,38.45,84.39,High,Irrigation Needed
+34.47,34.32,29.88,Medium,Monitor
+15.78,16.45,72.88,Medium,Monitor
+85.15,25.8,75.65,Low,No Action
+58.42,43.7,70.83,Low,No Action
+66.12,30.01,38.92,Low,No Action
+76.03,27.98,85.48,Low,No Action
+49.86,28.73,32.66,Low,No Action
+12.82,21.27,24.02,High,Irrigation Needed
+53.34,26.06,73.81,Low,No Action
+57.82,26.09,55.66,Low,No Action
+72.09,16.57,83.68,Low,No Action
+43.85,38.03,48.75,Medium,Monitor
+16.48,27.5,32.62,High,Irrigation Needed
+30.54,39.67,82.73,Medium,Monitor
+37.68,40.51,61.17,Medium,Monitor
+63.13,21.36,34.19,Low,No Action
+56.37,34.72,74.03,Low,No Action
+37.05,29.17,58.33,Medium,Monitor
+93.79,41.4,65.32,Low,No Action
+59.52,21.47,54.57,Low,No Action
+26.35,35.33,82.15,High,Irrigation Needed
+14.16,33.23,82.22,High,Irrigation Needed
+18.76,23.86,73.2,Medium,Monitor
+27.14,19.1,27.91,High,Irrigation Needed
+19.46,34.55,82.91,High,Irrigation Needed
+21.79,37.16,70.33,High,Irrigation Needed
+30.66,24.47,72.28,Medium,Monitor
+20.6,34.34,47.22,High,Irrigation Needed
+85.71,26.85,85.95,Low,No Action
+12.22,36.4,74.4,High,Irrigation Needed
+52.21,20.98,28.44,Low,No Action
+41.94,41.71,50.58,Medium,Monitor
+93.41,23.62,86.48,Low,No Action
+15.08,26.03,23.54,High,Irrigation Needed
+40.81,16.74,92.11,Low,No Action
+92.25,18.35,70.94,Low,No Action
+82.9,30.48,67.35,Low,No Action
+78.54,23.03,40.29,Low,No Action
+28.21,40.06,38.66,High,Irrigation Needed
+20.38,15.44,90.65,Medium,Monitor
+65.18,26.37,42.37,Low,No Action
+88.64,25.12,78.16,Low,No Action
+55.11,15.58,49.48,Low,No Action
+56.45,18.73,30.44,Low,No Action
+30.2,27.41,20.8,Medium,Monitor
+74.25,29.79,60.82,Low,No Action
+21.83,27.13,93.18,Medium,Monitor
+34.13,30.93,47.69,Medium,Monitor
+43.29,32.85,46.79,Medium,Monitor
+50.68,15.3,45.81,Low,No Action
+26.82,28.92,59.04,Medium,Monitor
+15.34,43.9,53.05,High,Irrigation Needed
+59.96,30.57,85.99,Low,No Action
+30.98,35.33,57.91,Medium,Monitor
+57.31,24.36,58.08,Low,No Action
+18.89,38.22,30.38,High,Irrigation Needed
+48.3,38.19,93.71,Low,No Action
+52.93,30.64,38.75,Low,No Action
+9.66,44.28,25.5,High,Irrigation Needed
+35.29,18.77,69.74,Medium,Monitor
+17.1,15.51,64.65,Medium,Monitor
+10.7,38.1,51.14,High,Irrigation Needed
+94.1,39.21,51.66,Low,No Action
+34.01,18.61,78.88,Medium,Monitor
+77.89,22.97,34.68,Low,No Action
+27.92,15.53,81.52,Medium,Monitor
+66.34,23.8,68.66,Low,No Action
+73.42,38.19,51.42,Low,No Action
+58.61,30.54,54.35,Low,No Action
+47.44,25.44,39.25,Low,No Action
+42.07,26.15,76.41,Low,No Action
+36.4,15.04,58.47,Medium,Monitor
+88.66,23.99,44.06,Low,No Action
+79.76,34.39,64.7,Low,No Action
+91.85,44.23,94.68,High,Irrigation Needed
+16.19,40.41,52.64,High,Irrigation Needed
+70.78,15.71,89.05,Low,No Action
+89.45,41.96,45.88,Low,No Action
+21.31,38.5,24.1,High,Irrigation Needed
+10.98,38.41,35.32,High,Irrigation Needed
+71.7,28.74,51.4,Low,No Action
+56.7,26.94,36.47,Low,No Action
+80.76,24.09,20.02,Low,No Action
+17.58,16.97,88.63,Medium,Monitor
+76.57,21.85,83.29,Low,No Action
+23.15,22.4,75.67,Medium,Monitor
+19.73,29.52,32.59,High,Irrigation Needed
+19.78,37.42,29.03,High,Irrigation Needed
+78.31,29.21,25.07,Low,No Action
+64.87,16.74,74.3,Low,No Action
+52.08,43.73,89.66,Low,No Action
+37.29,43.28,52.29,Medium,Monitor
+83.95,38.56,28.94,Low,No Action
+40.32,44.74,58.43,Medium,Monitor
+78.49,31.33,46.16,Low,No Action
+44.52,43.88,48.11,Medium,Monitor
+38.92,17.27,66.6,Medium,Monitor
+46.64,25.97,73.9,Low,No Action
+32.12,21.76,28.3,Medium,Monitor
+72.28,20.87,22.67,Low,No Action
+50.24,19.22,94.57,Low,No Action
+25.9,33.67,37.45,High,Irrigation Needed
+85.96,38.44,24.04,Low,No Action
+39.55,32.35,34.24,Medium,Monitor
+53.92,19.41,22.92,Low,No Action
+86.58,39.33,49.39,Low,No Action
+61.18,34.08,80.18,Low,No Action
+15.52,26.64,45.59,High,Irrigation Needed
+89.58,35.22,53.31,Low,No Action
+61.49,22.8,70.67,High,Irrigation Needed
+35.14,25.36,58.17,Medium,Monitor
+17.53,42.52,84.61,High,Irrigation Needed
+76.46,23.72,84.95,Low,No Action
+60.81,29.1,20.74,Low,No Action
+53.01,41.7,78.35,Low,No Action
+85.45,36.23,54.56,Low,No Action
+75.97,16.87,94.16,Low,No Action
+18.65,19.42,56.24,Medium,Monitor
+33.05,15.24,94.02,Medium,Monitor
+27.36,33.93,76.59,High,Irrigation Needed
+71.96,28.43,38.65,Low,No Action
+8.02,19.03,60.38,Medium,Monitor
+56.29,43.74,94.41,Low,No Action
+73.62,30.89,84.31,Low,No Action
+83.91,22.26,27.3,Low,No Action
+35.79,30.02,72.98,Medium,Monitor
+78.91,35.39,45.92,Low,No Action
+14.96,17.29,20.52,High,Irrigation Needed
+81.18,23.24,50.26,Low,No Action
+16.47,39.21,37.61,High,Irrigation Needed
+40.76,28.79,81.42,Low,No Action
+76.76,31.4,45.3,Low,No Action
+18.49,27.98,82.06,Medium,Monitor
+25.63,16.32,20.04,High,Irrigation Needed
+70.0,19.97,43.09,Low,No Action
+69.8,28.37,38.09,Low,No Action
+62.7,21.28,37.52,Low,No Action
+67.46,16.5,25.11,Low,No Action
+53.85,40.31,34.03,Low,No Action
+27.66,44.44,61.67,High,Irrigation Needed
+36.11,38.79,41.85,Medium,Monitor
+21.34,40.61,51.3,High,Irrigation Needed
+86.76,22.26,48.27,Low,No Action
+57.51,43.82,85.69,Low,No Action
+41.08,20.91,87.9,Low,No Action
+46.58,43.54,56.97,Low,No Action
+90.26,44.84,44.76,Low,No Action
+18.8,36.35,28.01,Low,No Action
+57.76,44.43,91.51,Low,No Action
+50.53,32.09,24.52,Low,No Action
+60.03,22.79,42.32,Low,No Action
+6.63,28.11,42.35,High,Irrigation Needed
+83.49,32.81,44.03,Low,No Action
+88.89,17.19,32.32,Low,No Action
+55.86,33.67,78.74,Low,No Action
+67.7,44.44,29.19,Low,No Action
+88.02,20.7,67.62,Low,No Action
+68.65,38.78,29.29,Low,No Action
+18.73,42.24,25.29,High,Irrigation Needed
+56.87,43.31,88.21,Low,No Action
+59.6,43.8,34.26,Low,No Action
+43.17,30.64,81.59,Low,No Action
+71.28,44.32,60.85,Low,No Action
+89.09,37.72,25.84,Low,No Action
+88.3,19.85,91.66,Low,No Action
+45.58,29.31,38.52,Low,No Action
+15.19,36.55,84.47,High,Irrigation Needed
+93.64,22.42,32.66,Low,No Action
+80.5,34.22,84.05,Low,No Action
+16.22,35.0,20.99,High,Irrigation Needed
+87.88,19.88,58.38,Low,No Action
+83.29,31.95,77.71,Low,No Action
+51.7,38.15,90.11,Low,No Action
+58.21,29.97,88.19,Low,No Action
+40.91,15.36,81.47,Low,No Action
+9.93,15.27,86.61,Medium,Monitor
+35.17,25.71,34.94,Medium,Monitor
+77.26,42.79,41.31,Low,No Action
+5.42,21.86,41.67,High,Irrigation Needed
+35.01,34.03,48.28,Medium,Monitor
+40.84,21.66,49.5,Low,No Action
+53.37,24.65,60.84,Low,No Action
+87.79,40.44,31.99,Low,No Action
+36.17,36.87,71.84,Medium,Monitor
+36.23,17.86,32.57,Medium,Monitor
+71.38,27.86,43.27,Low,No Action
+45.7,15.88,57.75,Low,No Action
+25.21,29.43,79.73,Medium,Monitor
+45.72,34.87,75.46,Low,No Action
+17.68,18.56,68.42,Medium,Monitor
+20.87,23.67,31.68,High,Irrigation Needed
+49.85,26.94,61.03,Low,No Action
+42.7,42.59,26.56,Medium,Monitor
+87.34,44.8,48.3,Low,No Action
+37.62,16.35,51.01,Medium,Monitor
+57.25,37.83,22.99,Low,No Action
+61.9,26.15,40.55,Low,No Action
+6.18,26.77,91.67,Medium,Monitor
+64.72,37.63,91.52,Low,No Action
+21.02,42.55,46.42,High,Irrigation Needed
+91.5,43.53,23.23,Low,No Action
+18.38,32.31,33.43,High,Irrigation Needed
+42.32,25.71,49.42,Low,No Action
+12.68,38.63,91.08,High,Irrigation Needed
+94.72,22.53,30.59,Low,No Action
+50.2,31.92,77.26,Low,No Action
+58.58,25.76,28.15,Low,No Action
+11.04,34.7,93.59,High,Irrigation Needed
+72.5,22.21,48.62,Low,No Action
+23.89,20.75,78.14,Medium,Monitor
+85.82,42.55,45.69,Low,No Action
+23.46,18.05,67.08,Medium,Monitor
+22.16,30.18,34.4,High,Irrigation Needed
+8.29,21.63,30.95,Low,No Action
+47.49,16.17,90.35,Low,No Action
+55.84,16.08,88.82,Low,No Action
+10.91,20.26,86.56,Medium,Monitor
+74.8,41.0,66.91,Low,No Action
+45.8,23.47,80.62,Low,No Action
+52.2,43.51,25.18,Low,No Action
+44.67,32.45,45.11,Medium,Monitor
+41.07,28.1,43.53,Low,No Action
+55.37,32.4,67.67,Low,No Action
+18.97,30.5,46.7,High,Irrigation Needed
+21.37,37.76,31.14,High,Irrigation Needed
+82.56,23.47,64.74,Low,No Action
+90.15,25.59,81.08,Low,No Action
+38.6,41.82,48.66,Medium,Monitor
+29.37,43.39,29.92,High,Irrigation Needed
+62.96,41.78,34.75,Low,No Action
+41.79,27.58,37.81,Medium,Monitor
+7.28,38.41,42.49,High,Irrigation Needed
+19.05,29.29,68.21,Medium,Monitor
+69.44,29.93,65.07,Low,No Action
+64.3,21.14,72.21,High,Irrigation Needed
+7.44,32.73,47.19,High,Irrigation Needed
+24.98,20.58,81.8,Medium,Monitor
+25.8,24.95,35.31,High,Irrigation Needed
+65.47,40.65,55.18,Low,No Action
+6.77,21.21,80.07,Medium,Monitor
+14.37,17.13,33.51,High,Irrigation Needed
+76.99,17.07,28.24,Low,No Action
+21.07,43.22,86.28,High,Irrigation Needed
+63.75,30.21,45.72,Low,No Action
+26.44,27.28,71.29,Medium,Monitor
+13.95,39.33,21.9,High,Irrigation Needed
+26.89,40.07,71.75,High,Irrigation Needed
+70.0,24.97,43.71,Low,No Action
+82.01,35.81,24.18,Low,No Action
+79.72,38.13,65.74,Low,No Action
+40.75,34.64,38.06,Medium,Monitor
+65.13,19.55,49.01,Low,No Action
+23.45,41.28,26.04,High,Irrigation Needed
+31.38,31.17,31.04,Medium,Monitor
+85.67,23.47,42.35,Low,No Action
+6.17,27.76,26.73,High,Irrigation Needed
+12.7,16.13,88.31,Medium,Monitor
+23.71,18.84,20.45,High,Irrigation Needed
+7.39,37.97,56.29,High,Irrigation Needed
+21.33,15.0,29.24,High,Irrigation Needed
+57.47,27.5,43.08,Low,No Action
+42.93,30.68,89.45,Low,No Action
+85.34,16.64,32.13,Low,No Action
+78.57,44.19,92.44,Low,No Action
+35.76,21.78,35.43,Medium,Monitor
+28.35,24.13,75.62,Medium,Monitor
+39.17,24.12,61.0,Medium,Monitor
+58.13,21.91,86.34,Low,No Action
+29.13,15.04,61.55,Medium,Monitor
+61.17,36.88,60.09,Low,No Action
+41.85,44.01,34.66,Medium,Monitor
+54.68,21.73,32.47,Low,No Action
+44.25,34.89,88.74,Medium,Monitor
+31.5,37.26,44.59,High,Irrigation Needed
+90.36,40.45,47.91,Low,No Action
+73.72,27.68,76.99,Low,No Action
+17.61,24.09,45.41,High,Irrigation Needed
+83.16,24.76,91.4,Low,No Action
+48.87,36.38,75.34,Low,No Action
+85.51,39.5,64.81,Medium,Monitor
+76.99,20.45,86.07,Low,No Action
+43.27,26.13,23.72,Low,No Action
+7.02,42.06,39.28,High,Irrigation Needed
+29.18,39.2,54.88,High,Irrigation Needed
+53.75,44.55,37.02,Low,No Action
+62.01,37.63,75.79,Low,No Action
+28.21,26.8,88.94,Medium,Monitor
+17.54,32.72,51.78,High,Irrigation Needed
+80.14,34.83,45.66,Low,No Action
+93.6,17.35,92.12,Low,No Action
+52.31,31.33,53.36,Low,No Action
+20.45,36.28,56.68,High,Irrigation Needed
+29.51,20.02,46.37,High,Irrigation Needed
+6.66,38.42,88.22,High,Irrigation Needed
+87.29,32.51,62.67,Low,No Action
+15.6,43.57,77.16,High,Irrigation Needed
+56.89,16.27,80.89,Low,No Action
+29.66,22.96,45.64,High,Irrigation Needed
+54.88,33.05,52.53,Low,No Action
+63.63,23.9,83.64,Low,No Action
+79.68,36.43,47.24,Low,No Action
+23.58,37.77,79.55,High,Irrigation Needed
+5.99,18.08,90.57,Medium,Monitor
+17.32,30.42,66.74,High,Irrigation Needed
+86.0,30.27,75.62,Low,No Action
+83.65,26.08,80.38,Low,No Action
+58.77,42.99,83.38,Low,No Action
+59.05,39.83,49.63,Low,No Action
+64.85,35.92,23.84,Low,No Action
+20.78,36.43,50.14,High,Irrigation Needed
+87.3,28.85,70.53,Low,No Action
+42.69,42.63,53.78,Medium,Monitor
+39.48,35.84,76.17,Medium,Monitor
+51.7,36.87,46.77,Low,No Action
+9.23,40.85,67.61,High,Irrigation Needed
+19.97,23.22,33.98,High,Irrigation Needed
+71.42,39.21,76.2,Medium,Monitor
+12.45,20.86,60.93,Low,No Action
+59.28,25.36,35.3,Low,No Action
+27.08,25.07,41.89,High,Irrigation Needed
+40.04,44.36,76.15,Medium,Monitor
+30.98,40.7,56.2,Medium,Monitor
+37.01,36.04,36.2,Medium,Monitor
+69.71,36.81,92.55,Low,No Action
+31.74,31.86,73.63,Medium,Monitor
+55.98,43.41,91.79,Low,No Action
+47.84,29.89,52.03,Low,No Action
+64.73,26.42,55.63,High,Irrigation Needed
+89.31,19.89,87.35,Low,No Action
+70.93,38.59,59.38,Low,No Action
+24.34,37.03,73.05,High,Irrigation Needed
+7.81,26.53,38.91,High,Irrigation Needed
+28.6,15.76,53.5,Medium,Monitor
+58.56,40.17,29.26,Low,No Action
+9.63,15.34,35.45,High,Irrigation Needed
+49.67,36.11,20.07,Low,No Action
+58.72,44.11,22.94,Low,No Action
+35.08,28.13,93.3,Low,No Action
+74.38,22.05,38.18,Low,No Action
+14.59,36.15,69.75,High,Irrigation Needed
+11.76,39.51,82.93,High,Irrigation Needed
+70.54,31.39,61.3,Low,No Action
+49.59,44.01,31.49,Low,No Action
+66.96,16.55,74.61,Low,No Action
+44.13,30.14,65.02,Low,No Action
+27.18,36.55,74.84,High,Irrigation Needed
+78.72,40.88,77.73,Low,No Action
+76.95,20.38,93.16,Low,No Action
+67.52,39.0,63.02,Low,No Action
+29.49,31.58,45.62,High,Irrigation Needed
+58.12,26.9,68.63,Low,No Action
+37.49,18.95,25.13,Medium,Monitor
+13.24,40.96,87.3,Medium,Monitor
+87.56,19.72,28.95,Low,No Action
+17.31,24.29,44.59,High,Irrigation Needed
+90.52,23.7,81.18,Low,No Action
+45.14,41.14,64.8,Low,No Action
+21.66,35.18,49.52,High,Irrigation Needed
+53.77,38.9,55.51,Low,No Action
+83.57,22.51,84.09,Low,No Action
+70.9,33.75,45.5,Low,No Action
+77.59,32.15,85.22,Low,No Action
+64.29,39.98,26.61,Low,No Action
+67.3,42.18,78.26,Low,No Action
+81.43,15.36,83.57,Low,No Action
+27.47,35.22,33.64,High,Irrigation Needed
+49.05,16.56,52.28,Low,No Action
+24.91,31.47,32.41,High,Irrigation Needed
+93.89,23.63,73.0,Low,No Action
+89.97,24.2,60.15,Low,No Action
+8.55,25.59,67.65,Medium,Monitor
+68.5,33.64,34.74,Low,No Action
+88.27,25.02,35.88,Low,No Action
+21.25,36.98,23.11,High,Irrigation Needed
+56.12,27.14,44.16,Low,No Action
+87.39,17.05,61.98,Low,No Action
+8.06,38.51,84.35,High,Irrigation Needed
+67.77,23.57,70.02,Low,No Action
+31.76,27.98,52.65,Medium,Monitor
+88.2,35.56,91.48,Low,No Action
+92.4,24.97,73.94,Low,No Action
+89.98,16.7,89.76,Low,No Action
+47.68,26.22,59.57,Low,No Action
+82.58,43.33,39.42,Low,No Action
+81.01,34.25,23.96,Low,No Action
+33.72,35.14,74.46,High,Irrigation Needed
+79.6,33.97,29.1,Low,No Action
+8.33,20.97,42.71,High,Irrigation Needed
+58.66,27.55,59.94,Low,No Action
+25.7,37.53,62.33,High,Irrigation Needed
+15.85,18.04,65.04,Medium,Monitor
+11.93,23.34,32.47,High,Irrigation Needed
+67.67,23.29,48.48,Low,No Action
+35.59,27.96,66.29,Medium,Monitor
+70.23,44.41,92.74,High,Irrigation Needed
+10.88,17.03,74.57,Medium,Monitor
+33.38,30.56,89.2,Medium,Monitor
+53.55,20.38,77.17,Low,No Action
+76.17,44.12,64.38,Low,No Action
+33.69,18.4,34.4,Medium,Monitor
+61.33,27.11,70.0,Low,No Action
+84.74,37.14,66.75,Low,No Action
+60.43,36.14,65.19,Low,No Action
+25.97,27.68,56.73,Medium,Monitor
+7.2,25.4,59.65,Medium,Monitor
+83.31,26.93,45.08,Low,No Action
+6.91,22.93,58.95,Medium,Monitor
+83.72,21.16,34.82,Low,No Action
+52.6,29.49,80.39,High,Irrigation Needed
+89.52,23.06,33.93,Low,No Action
+76.89,23.62,26.37,Low,No Action
+94.81,34.7,52.72,Low,No Action
+36.56,44.06,69.37,Medium,Monitor
+74.05,33.11,52.83,Low,No Action
+41.17,17.31,40.76,Low,No Action
+48.19,17.27,61.86,Low,No Action
+61.48,43.54,46.03,Low,No Action
+83.63,23.92,89.97,Low,No Action
+93.57,17.76,89.2,Low,No Action
+74.14,32.97,57.68,Medium,Monitor
+42.6,33.71,44.59,Medium,Monitor
+42.92,34.46,75.28,Medium,Monitor
+71.38,23.02,22.75,Low,No Action
+26.49,15.45,55.61,Medium,Monitor
+14.94,43.95,45.22,High,Irrigation Needed
+36.92,22.53,89.04,Medium,Monitor
+30.85,35.28,20.9,Medium,Monitor
+31.67,36.2,61.46,Medium,Monitor
+26.02,33.3,75.55,High,Irrigation Needed
+8.79,24.39,56.38,Medium,Monitor
+6.61,23.13,26.41,High,Irrigation Needed
+93.9,32.93,92.93,Low,No Action
+43.5,40.98,58.85,Medium,Monitor
+39.59,43.4,66.06,Medium,Monitor
+66.17,18.18,37.75,Low,No Action
+24.64,19.64,56.26,Medium,Monitor
+90.5,43.34,52.19,Low,No Action
+75.77,37.1,25.62,Low,No Action
+13.05,41.49,27.96,High,Irrigation Needed
+42.58,21.08,82.81,Low,No Action
+84.12,32.63,37.99,Low,No Action
+90.03,36.03,34.62,Low,No Action
+47.07,35.4,57.87,Low,No Action
+60.21,27.24,77.66,Low,No Action
+20.03,15.46,24.65,High,Irrigation Needed
+94.21,32.49,63.26,Low,No Action
+25.85,22.59,28.94,High,Irrigation Needed
+89.85,28.51,22.73,Low,No Action
+63.47,43.73,23.96,Low,No Action
+59.7,26.97,82.56,Low,No Action
+51.14,40.19,28.85,Low,No Action
+25.76,20.66,23.39,High,Irrigation Needed
+20.89,35.17,52.84,High,Irrigation Needed
+24.84,44.31,83.3,High,Irrigation Needed
+21.78,18.06,39.68,High,Irrigation Needed
+75.16,15.25,51.63,Low,No Action
+36.51,28.01,22.99,Medium,Monitor
+10.21,17.78,53.68,Medium,Monitor
+92.22,37.45,63.32,Low,No Action
+84.54,42.44,62.82,Low,No Action
+88.5,28.02,44.93,Low,No Action
+94.54,22.76,43.66,Low,No Action
+20.65,28.03,28.0,High,Irrigation Needed
+40.66,36.7,47.51,Medium,Monitor
+73.24,15.27,27.46,Low,No Action
+67.64,32.68,77.49,Low,No Action
+18.85,33.4,92.47,High,Irrigation Needed
+78.42,34.13,92.76,Low,No Action
+25.2,22.26,84.88,Medium,Monitor
+25.14,36.42,65.06,High,Irrigation Needed
+53.33,17.74,72.56,Low,No Action
+58.36,20.98,41.39,Low,No Action
+57.21,41.32,67.31,Low,No Action
+13.23,37.16,54.17,High,Irrigation Needed
+83.97,15.41,56.15,Low,No Action
+28.9,22.45,76.83,Medium,Monitor
+16.66,21.43,41.14,High,Irrigation Needed
+84.99,23.12,43.85,Low,No Action
+91.01,22.43,89.35,Low,No Action
+82.59,16.88,24.22,Low,No Action
+77.86,28.77,56.42,Low,No Action
+63.97,36.98,88.46,Low,No Action
+54.58,33.2,65.78,Low,No Action
+12.83,35.19,60.98,High,Irrigation Needed
+41.76,17.43,38.73,Low,No Action
+38.54,43.54,45.75,Medium,Monitor
+28.38,40.15,83.9,High,Irrigation Needed
+70.11,39.15,61.94,Low,No Action
+49.63,39.69,58.61,Low,No Action
+12.29,42.98,27.47,High,Irrigation Needed
+24.82,31.33,21.2,High,Irrigation Needed
+66.49,21.01,92.28,Low,No Action
+11.85,33.5,48.27,High,Irrigation Needed
+81.61,37.29,65.24,Low,No Action
+49.56,37.14,25.98,Low,No Action
+48.25,30.64,71.23,Low,No Action
+58.32,17.05,89.94,Low,No Action
+79.22,26.13,63.17,Low,No Action
+36.3,42.62,29.46,Medium,Monitor
+66.02,32.53,63.63,Low,No Action
+55.92,31.15,77.48,Low,No Action
+29.03,23.07,50.48,Medium,Monitor
+84.08,26.05,85.99,Low,No Action
+76.77,41.86,68.65,Low,No Action
+64.26,34.99,87.44,Low,No Action
+81.55,38.62,66.76,Low,No Action
+83.06,28.63,29.85,Low,No Action
+68.75,33.91,43.23,Low,No Action
+80.33,22.45,35.13,Low,No Action
+67.77,36.16,88.16,Low,No Action
+66.21,27.83,77.03,Low,No Action
+60.68,28.28,70.73,Low,No Action
+72.74,34.48,42.57,Low,No Action
+19.27,43.09,33.8,High,Irrigation Needed
+84.28,16.92,76.73,Low,No Action
+83.47,39.74,55.56,Low,No Action
+7.63,23.77,36.93,High,Irrigation Needed
+79.32,28.32,66.25,Low,No Action
+16.6,15.66,23.03,High,Irrigation Needed
+35.16,24.03,44.46,Medium,Monitor
+71.92,30.08,55.14,Low,No Action
+19.47,16.69,31.1,High,Irrigation Needed
+78.62,29.73,93.85,Low,No Action
+79.89,42.81,35.68,Low,No Action
+50.67,18.16,29.78,Low,No Action
+5.57,37.93,35.27,High,Irrigation Needed
+30.83,27.29,77.68,Medium,Monitor
+60.52,34.66,51.91,Low,No Action
+93.31,22.81,62.41,Low,No Action
+61.86,19.78,21.58,Low,No Action
+28.38,19.81,22.58,High,Irrigation Needed
+62.06,17.11,53.44,Low,No Action
+53.6,20.57,81.25,Low,No Action
+75.19,34.93,86.39,Low,No Action
+14.63,41.45,26.5,High,Irrigation Needed
+73.49,39.42,60.38,Low,No Action
+53.71,35.55,88.49,Low,No Action
+91.67,18.31,49.1,Low,No Action
+35.77,23.68,82.22,Medium,Monitor
+61.94,24.29,30.03,Low,No Action
+88.88,22.5,90.15,Low,No Action
+14.23,30.45,76.36,High,Irrigation Needed
+89.35,31.07,90.6,Low,No Action
+66.91,25.71,70.75,Low,No Action
+11.11,25.61,47.26,High,Irrigation Needed
+32.09,39.86,90.36,Medium,Monitor
+68.74,38.68,40.67,Low,No Action
+11.06,24.23,44.91,High,Irrigation Needed
+57.4,42.41,72.56,Low,No Action
+36.13,43.58,77.4,Medium,Monitor
+60.88,24.8,89.71,Low,No Action
+9.12,25.63,35.36,Low,No Action
+83.44,30.17,79.85,Low,No Action
+92.61,43.23,75.39,Low,No Action
+92.2,41.29,24.78,Low,No Action
+72.47,18.08,49.04,Low,No Action
+16.71,26.78,41.21,High,Irrigation Needed
+73.24,31.6,42.84,Low,No Action
+7.21,30.09,93.72,High,Irrigation Needed
+6.99,20.82,68.21,Medium,Monitor
+34.12,40.76,73.83,Medium,Monitor
+48.98,35.31,93.25,Low,No Action
+74.34,40.14,48.29,Medium,Monitor
+66.5,40.76,80.14,Low,No Action
+45.13,37.45,52.59,Low,No Action
+29.63,28.18,85.22,Medium,Monitor
+94.74,33.32,33.55,Low,No Action
+43.36,19.81,91.08,Low,No Action
+45.62,35.21,36.41,Low,No Action
+19.73,20.38,44.47,High,Irrigation Needed
+76.53,35.82,76.71,Low,No Action
+67.43,21.89,49.53,Low,No Action
+24.87,18.53,65.62,Medium,Monitor
+12.41,19.96,53.34,Medium,Monitor
+66.24,15.06,75.68,Low,No Action
+63.91,36.56,37.12,Low,No Action
+29.59,36.97,24.38,High,Irrigation Needed
+90.58,30.45,42.49,Low,No Action
+18.6,19.84,55.57,Medium,Monitor
+43.91,17.51,32.6,Low,No Action
+89.93,15.57,46.61,Low,No Action
+42.78,19.97,50.0,Low,No Action
+62.47,41.73,24.3,Low,No Action
+40.78,22.25,63.75,Low,No Action
+29.68,25.63,86.33,Medium,Monitor
+93.56,18.16,31.38,Low,No Action
+41.84,21.67,64.84,Medium,Monitor
+85.47,30.58,69.86,Low,No Action
+25.7,33.23,51.45,High,Irrigation Needed
+24.18,22.36,72.58,Medium,Monitor
+7.8,16.73,50.8,Medium,Monitor
+63.65,26.73,57.85,Low,No Action
+38.17,22.03,20.55,Medium,Monitor
+82.79,21.59,71.88,Low,No Action
+47.59,43.8,69.6,Low,No Action
+92.14,33.49,22.88,Low,No Action
+21.7,31.71,47.62,High,Irrigation Needed
+83.18,27.47,93.43,Low,No Action
+74.89,27.87,51.56,Low,No Action
+74.38,31.23,57.65,Low,No Action
+81.03,35.89,88.24,Low,No Action
+73.49,36.06,73.79,Low,No Action
+61.36,20.15,63.66,Low,No Action
+16.81,30.0,79.84,High,Irrigation Needed
+7.93,27.36,84.83,Medium,Monitor
+87.88,41.12,54.27,Low,No Action
+60.5,33.94,55.63,Low,No Action
+76.69,30.98,48.95,Low,No Action
+48.34,18.46,92.5,Low,No Action
+15.56,33.17,72.29,High,Irrigation Needed
+16.27,18.52,26.24,High,Irrigation Needed
+66.7,25.12,84.72,Low,No Action
+43.73,19.29,56.04,Low,No Action
+23.05,35.76,25.16,High,Irrigation Needed
+49.24,21.19,61.23,Low,No Action
+10.78,26.76,51.29,Medium,Monitor
+57.38,41.87,85.83,Low,No Action
+29.21,21.13,35.3,High,Irrigation Needed
+76.78,30.23,81.98,Low,No Action
+32.93,27.58,61.83,Medium,Monitor
+45.97,15.54,24.1,Low,No Action
+6.05,38.78,92.89,High,Irrigation Needed
+11.52,17.07,58.45,Medium,Monitor
+40.32,29.23,41.82,Low,No Action
+48.19,31.82,55.21,Low,No Action
+59.0,33.85,84.34,Low,No Action
+31.25,35.66,42.87,Medium,Monitor
+67.55,22.6,34.45,Low,No Action
+82.41,15.3,29.68,Low,No Action
+75.19,36.7,42.34,Low,No Action
+8.57,31.07,78.5,Low,No Action
+48.25,40.08,55.37,Low,No Action
+14.44,39.64,37.06,High,Irrigation Needed
+26.78,40.3,32.46,High,Irrigation Needed
+93.8,29.55,44.95,Low,No Action
+17.82,25.01,90.49,Medium,Monitor
+49.9,38.75,45.73,Low,No Action
+60.63,28.54,94.11,Low,No Action
+68.22,20.5,56.39,Low,No Action
+55.37,40.65,33.44,Low,No Action
+5.88,41.48,86.84,High,Irrigation Needed
+34.38,28.99,54.53,Medium,Monitor
+51.59,17.27,73.23,Low,No Action
+12.91,26.63,93.78,Medium,Monitor
+36.56,39.11,23.76,Medium,Monitor
+7.99,42.05,27.25,High,Irrigation Needed
+12.07,21.1,74.03,Medium,Monitor
+40.72,17.01,41.14,Low,No Action
+16.94,41.32,33.82,High,Irrigation Needed
+56.08,26.68,22.95,Low,No Action
+67.05,31.25,21.64,Low,No Action
+77.05,44.04,78.09,Low,No Action
+23.01,17.0,30.08,High,Irrigation Needed
+20.07,34.45,55.08,High,Irrigation Needed
+14.41,17.22,65.44,Medium,Monitor
+62.28,26.26,52.13,Low,No Action
+68.58,39.11,22.03,Low,No Action
+7.84,28.0,78.76,Medium,Monitor
+89.26,44.92,20.79,Low,No Action
+9.68,31.77,77.14,High,Irrigation Needed
+53.72,24.63,87.0,Low,No Action
+68.82,21.6,52.46,Low,No Action
+83.39,25.52,60.17,Low,No Action
+69.27,26.18,55.77,Low,No Action
+77.16,17.06,49.19,Low,No Action
+35.55,26.09,86.56,Medium,Monitor
+78.33,28.93,87.05,Low,No Action
+12.21,36.68,45.19,Low,No Action
+85.53,34.7,66.13,Low,No Action
+54.28,36.26,89.52,Low,No Action
+78.56,15.25,92.15,Low,No Action
+45.71,21.53,58.17,Low,No Action
+62.92,34.85,53.96,Low,No Action
+52.38,29.52,40.9,Low,No Action
+70.84,15.16,91.92,Low,No Action
+12.35,39.13,30.71,High,Irrigation Needed
+10.43,38.18,63.49,High,Irrigation Needed
+27.24,31.45,41.19,High,Irrigation Needed
+19.36,16.99,40.93,High,Irrigation Needed
+83.46,38.0,50.37,Low,No Action
+24.73,32.51,94.91,High,Irrigation Needed
+92.83,38.46,24.12,Low,No Action
+35.32,37.55,63.39,Medium,Monitor
+21.39,39.09,26.19,High,Irrigation Needed
+76.07,30.54,31.59,Low,No Action
+64.28,19.21,52.97,Low,No Action
+49.84,35.13,58.28,Low,No Action
+54.98,33.61,39.41,Low,No Action
+69.73,37.27,43.73,Low,No Action
+25.56,20.1,26.52,High,Irrigation Needed
+94.67,20.85,42.74,Low,No Action
+92.73,41.71,92.49,Low,No Action
+63.53,37.5,90.85,Low,No Action
+22.96,42.25,45.12,High,Irrigation Needed
+66.22,37.76,62.81,Low,No Action
+11.5,32.91,88.22,High,Irrigation Needed
+7.76,34.62,20.46,High,Irrigation Needed
+28.19,41.67,80.8,High,Irrigation Needed
+46.64,32.36,91.13,Low,No Action
+83.14,33.97,26.85,Low,No Action
+70.45,19.69,32.11,Low,No Action
+71.84,29.22,92.06,Low,No Action
+43.29,36.49,60.32,Medium,Monitor
+36.13,23.13,21.06,Medium,Monitor
+38.39,21.07,39.32,Medium,Monitor
+93.89,24.41,53.75,Medium,Monitor
+8.61,22.25,71.97,Medium,Monitor
+83.03,21.45,74.99,Low,No Action
+57.08,27.75,94.66,Low,No Action
+44.48,42.24,41.56,Medium,Monitor
+70.27,30.21,60.37,Low,No Action
+48.8,20.64,60.0,High,Irrigation Needed
+83.61,17.31,50.42,Low,No Action
+86.06,35.88,32.69,Low,No Action
+42.95,26.48,93.31,Low,No Action
+29.91,39.65,84.0,High,Irrigation Needed
+58.31,34.79,57.37,Low,No Action
+87.11,38.89,65.24,Low,No Action
+23.96,23.16,37.04,High,Irrigation Needed
+61.07,35.77,60.78,Low,No Action
+61.84,22.92,72.12,Low,No Action
+70.98,43.17,58.64,Low,No Action
+16.84,34.09,94.27,High,Irrigation Needed
+69.42,24.74,65.85,Low,No Action
+86.81,23.09,47.82,Low,No Action
+21.17,20.73,77.91,Medium,Monitor
+26.38,35.84,32.78,High,Irrigation Needed
+92.43,21.56,48.84,Low,No Action
+21.29,32.86,46.02,High,Irrigation Needed
+81.89,22.94,52.39,Low,No Action
+49.31,34.86,78.63,Low,No Action
+27.25,39.45,56.31,High,Irrigation Needed
+83.37,38.34,79.55,Low,No Action
+45.08,37.83,63.24,Low,No Action
+51.33,20.63,45.66,Low,No Action
+37.33,17.65,80.75,Medium,Monitor
+58.37,35.97,37.87,Low,No Action
+19.72,26.05,36.83,High,Irrigation Needed
+40.2,27.97,57.84,Low,No Action
+92.25,15.93,39.56,Low,No Action
+28.23,22.79,20.68,High,Irrigation Needed
+64.11,16.01,68.62,Low,No Action
+34.27,41.38,58.33,Medium,Monitor
+74.61,22.3,53.41,Low,No Action
+16.78,31.72,92.52,High,Irrigation Needed
+92.28,16.17,62.84,Low,No Action
+45.84,35.01,84.76,Low,No Action
+26.24,24.69,30.46,High,Irrigation Needed
+11.61,41.94,62.69,High,Irrigation Needed
+20.28,41.64,85.1,High,Irrigation Needed
+51.78,24.76,63.73,Low,No Action
+35.33,42.03,73.85,Medium,Monitor
+79.6,44.88,47.9,Low,No Action
+43.78,39.76,26.93,Medium,Monitor
+27.38,40.35,54.34,High,Irrigation Needed
+60.54,22.47,49.59,Low,No Action
+68.61,32.3,85.03,Low,No Action
+20.03,17.02,38.3,High,Irrigation Needed
+20.09,17.85,92.51,Medium,Monitor
+8.3,44.97,91.86,High,Irrigation Needed
+71.28,24.8,38.57,Low,No Action
+64.74,37.45,46.1,Low,No Action
+47.72,39.2,87.17,Low,No Action
+80.98,40.74,92.5,Low,No Action
+77.51,44.93,53.26,Low,No Action
+57.68,22.24,44.07,Low,No Action
+83.14,16.21,59.46,Low,No Action
+23.53,27.34,71.58,Medium,Monitor
+15.07,18.9,40.51,High,Irrigation Needed
+29.28,15.67,75.24,Medium,Monitor
+10.14,25.81,23.87,High,Irrigation Needed
+52.81,38.51,23.7,Low,No Action
+89.29,31.99,48.97,Low,No Action
+8.54,24.38,46.51,High,Irrigation Needed
+15.99,34.63,43.67,Low,No Action
+45.7,21.96,56.83,Low,No Action
+89.05,15.43,44.06,Low,No Action
+33.45,37.93,34.42,Medium,Monitor
+50.65,33.71,43.21,Low,No Action
+8.74,37.87,93.12,High,Irrigation Needed
+18.35,16.17,50.83,Medium,Monitor
+93.8,40.11,53.35,High,Irrigation Needed
+91.86,33.59,63.24,Low,No Action
+5.44,31.9,93.75,High,Irrigation Needed
+90.66,33.74,38.12,Low,No Action
+62.52,40.93,71.1,Low,No Action
+83.11,32.61,73.7,High,Irrigation Needed
+45.93,32.43,65.55,High,Irrigation Needed
+51.4,44.72,26.64,Low,No Action
+49.0,37.7,70.77,Low,No Action
+65.02,28.27,24.81,Low,No Action
+17.57,36.22,64.71,High,Irrigation Needed
+7.7,26.68,75.47,Medium,Monitor
+32.71,21.87,35.82,Medium,Monitor
+68.42,32.91,83.12,Low,No Action
+23.17,42.85,22.28,High,Irrigation Needed
+65.61,42.87,83.29,Low,No Action
+92.29,25.26,54.52,Low,No Action
+13.45,30.83,36.32,High,Irrigation Needed
+65.53,21.35,30.03,Low,No Action
+44.94,44.87,91.5,Medium,Monitor
+83.13,44.43,25.45,Low,No Action
+20.94,34.49,34.93,High,Irrigation Needed
+67.34,39.13,46.09,Low,No Action
+80.43,36.45,66.52,Low,No Action
+90.02,32.79,60.86,Low,No Action
+66.49,16.6,29.42,Low,No Action
+49.75,28.64,41.73,Low,No Action
+60.61,35.24,37.91,Low,No Action
+83.2,35.33,36.02,Low,No Action
+56.35,26.19,50.84,Low,No Action
+7.73,43.25,72.8,High,Irrigation Needed
+88.79,20.02,36.31,Low,No Action
+67.06,30.01,47.5,Low,No Action
+65.89,35.73,49.32,Low,No Action
+24.41,35.91,93.23,High,Irrigation Needed
+64.3,34.46,91.6,Low,No Action
+40.45,23.26,80.01,Low,No Action
+63.61,19.69,38.12,Low,No Action
+14.59,34.08,25.1,High,Irrigation Needed
+64.21,32.98,43.77,High,Irrigation Needed
+94.95,20.38,40.01,Low,No Action
+9.34,36.15,57.94,High,Irrigation Needed
+92.95,28.66,78.33,Low,No Action
+41.62,35.03,84.37,Medium,Monitor
+83.37,40.12,83.36,Low,No Action
+75.41,20.09,46.98,Low,No Action
+56.03,15.57,71.54,Low,No Action
+71.46,38.37,43.46,Low,No Action
+84.07,33.29,24.57,Low,No Action
+41.37,35.99,72.62,Medium,Monitor
+34.43,40.14,20.74,Medium,Monitor
+65.08,39.08,50.69,Low,No Action
+77.71,43.83,44.7,Low,No Action
+73.61,31.08,72.0,Low,No Action
+76.8,29.65,77.47,Low,No Action
+44.2,27.06,42.81,Low,No Action
+78.61,19.61,80.87,Low,No Action
+15.82,32.18,42.04,High,Irrigation Needed
+54.0,23.31,53.47,Low,No Action
+5.52,42.64,74.53,High,Irrigation Needed
+34.21,32.5,71.97,Medium,Monitor
+37.98,32.79,94.05,Medium,Monitor
+40.66,25.65,36.89,Medium,Monitor
+67.59,16.56,69.67,Low,No Action
+39.97,15.95,65.73,Medium,Monitor
+45.38,27.7,88.63,Low,No Action
+26.38,17.54,31.73,High,Irrigation Needed
+38.59,33.21,76.38,Medium,Monitor
+25.45,41.43,62.62,High,Irrigation Needed
+11.59,41.49,40.6,High,Irrigation Needed
+59.31,34.77,55.58,Low,No Action
+65.14,21.34,45.03,Low,No Action
+60.75,40.89,63.45,Low,No Action
+46.71,41.58,86.68,Low,No Action
+39.18,20.9,62.7,Medium,Monitor
+82.7,37.12,67.38,Low,No Action
+51.72,23.6,58.91,Low,No Action
+48.13,39.08,23.84,Low,No Action
+7.31,44.92,37.46,High,Irrigation Needed
+35.71,15.9,56.9,Medium,Monitor
+39.22,41.92,43.27,Medium,Monitor
+40.89,33.68,33.63,Medium,Monitor
+57.22,44.2,57.81,Low,No Action
+53.02,28.95,44.21,Low,No Action
+59.71,40.42,39.36,Low,No Action
+73.84,16.87,54.8,Low,No Action
+78.17,25.06,30.0,Low,No Action
+69.63,17.01,89.58,Low,No Action
+91.0,44.26,85.08,Low,No Action
+6.64,39.51,73.07,High,Irrigation Needed
+22.62,40.58,27.97,High,Irrigation Needed
+5.68,43.14,78.19,High,Irrigation Needed
+63.27,17.55,80.6,Low,No Action
+85.82,26.57,77.58,High,Irrigation Needed
+26.91,17.13,28.55,High,Irrigation Needed
+88.43,21.32,68.29,Low,No Action
+10.42,21.88,82.57,Medium,Monitor
+89.1,29.07,63.3,Low,No Action
+36.65,23.06,68.48,Medium,Monitor
+14.13,18.03,54.38,Medium,Monitor
+48.73,20.02,59.65,Low,No Action
+28.11,19.42,22.58,High,Irrigation Needed
+30.64,44.19,67.92,Medium,Monitor
+32.66,37.78,26.11,Medium,Monitor
+77.27,44.03,52.63,Low,No Action
+53.52,28.19,41.95,Low,No Action
+33.02,23.35,60.91,Medium,Monitor
+59.93,38.95,30.01,Low,No Action
+69.45,24.79,71.87,Low,No Action
+29.54,23.98,79.63,Medium,Monitor
+42.22,21.98,32.25,Low,No Action
+15.97,18.89,27.82,High,Irrigation Needed
+21.3,22.69,30.91,High,Irrigation Needed
+66.3,25.66,85.78,Low,No Action
+21.33,35.22,59.61,High,Irrigation Needed
+52.26,16.88,55.04,Medium,Monitor
+68.81,21.32,28.0,Low,No Action
+14.62,39.27,68.72,High,Irrigation Needed
+56.06,19.41,85.1,Low,No Action
+28.09,25.28,82.11,Medium,Monitor
+91.66,40.94,66.95,Low,No Action
+48.52,19.65,25.65,Low,No Action
+77.54,17.48,28.43,Low,No Action
+54.52,29.54,23.7,Low,No Action
+8.91,24.07,39.31,High,Irrigation Needed
+61.98,31.9,30.17,Low,No Action
+90.63,39.11,39.5,Low,No Action
+59.15,19.11,48.88,Low,No Action
+78.73,32.42,90.72,Low,No Action
+84.58,30.17,65.78,Low,No Action
+25.53,19.32,82.62,Medium,Monitor
+24.08,33.72,73.28,High,Irrigation Needed
+59.99,23.21,28.44,Low,No Action
+41.99,29.64,75.19,Low,No Action
+80.59,17.47,40.63,Low,No Action
+86.0,28.79,67.93,Low,No Action
+36.81,24.19,45.57,Medium,Monitor
+26.32,39.67,94.83,Low,No Action
+75.25,16.71,39.77,Low,No Action
+29.73,27.56,40.93,High,Irrigation Needed
+79.04,28.75,89.8,Low,No Action
+43.14,36.75,21.85,Medium,Monitor
+65.08,32.23,72.25,Low,No Action
+13.6,35.02,74.4,High,Irrigation Needed
+61.15,38.31,82.73,Low,No Action
+45.66,40.87,93.08,Low,No Action
+57.79,24.42,93.17,Low,No Action
+20.12,31.14,24.9,High,Irrigation Needed
+71.32,40.2,81.64,Low,No Action
+82.65,44.68,68.47,Low,No Action
+24.51,41.69,68.55,High,Irrigation Needed
+13.61,26.14,29.63,High,Irrigation Needed
+7.13,20.85,68.76,Medium,Monitor
+62.78,29.68,93.69,Low,No Action
+59.64,37.25,88.39,Low,No Action
+54.2,29.78,52.93,Low,No Action
+25.88,29.5,23.0,High,Irrigation Needed
+40.18,40.15,47.17,Medium,Monitor
+58.5,25.84,81.98,Low,No Action
+49.71,40.79,72.61,Low,No Action
+93.9,27.2,54.45,Low,No Action
+17.28,24.85,24.13,High,Irrigation Needed
+67.56,28.62,52.02,Low,No Action
+41.39,37.87,55.18,High,Irrigation Needed
+43.54,18.78,89.64,Low,No Action
+69.58,20.89,68.08,Low,No Action
+67.32,43.54,43.37,Low,No Action
+94.21,20.26,59.4,Low,No Action
+16.56,32.03,24.95,High,Irrigation Needed
+14.37,32.38,92.94,High,Irrigation Needed
+70.19,29.69,47.0,Low,No Action
+57.05,34.34,55.84,Low,No Action
+29.67,21.89,46.65,High,Irrigation Needed
+12.15,31.58,71.19,High,Irrigation Needed
+12.71,26.17,69.67,Medium,Monitor
+85.48,34.85,73.65,Low,No Action
+22.27,19.24,40.11,High,Irrigation Needed
+34.1,32.13,43.68,Medium,Monitor
+25.4,20.56,29.39,High,Irrigation Needed
+36.95,23.36,69.16,Medium,Monitor
+11.25,21.56,22.98,High,Irrigation Needed
+51.72,20.49,64.83,High,Irrigation Needed
+11.09,39.77,85.23,High,Irrigation Needed
+77.03,23.57,86.81,Low,No Action
+26.03,42.81,53.68,High,Irrigation Needed
+53.6,44.1,54.45,Low,No Action
+84.21,32.14,25.77,Low,No Action
+63.58,19.29,70.31,Low,No Action
+52.97,26.24,81.59,Low,No Action
+34.19,38.93,38.35,Medium,Monitor
+34.97,26.02,51.6,Medium,Monitor
+65.25,17.61,82.91,Low,No Action
+94.47,31.7,85.78,Low,No Action
+64.57,40.35,38.24,Low,No Action
+55.2,38.88,61.29,Low,No Action
+70.76,20.25,34.44,Low,No Action
+46.87,35.18,27.64,Low,No Action
+10.41,21.62,88.33,Medium,Monitor
+55.61,21.55,81.54,Low,No Action
+91.19,41.22,77.0,Low,No Action
+20.78,22.49,23.66,High,Irrigation Needed
+67.1,22.9,83.28,Low,No Action
+23.08,15.02,52.85,Medium,Monitor
+53.22,41.12,45.68,Low,No Action
+13.7,38.78,60.99,High,Irrigation Needed
+45.53,33.82,26.85,Low,No Action
+73.05,37.51,76.75,Low,No Action
+36.28,19.56,63.68,Medium,Monitor
+64.84,28.75,33.99,Low,No Action
+76.59,25.54,34.12,Low,No Action
+88.45,17.81,33.82,Low,No Action
+26.12,29.58,24.28,High,Irrigation Needed
+40.94,42.62,64.08,Medium,Monitor
+18.72,16.2,83.03,Medium,Monitor
+94.32,23.74,21.31,Low,No Action
+88.43,21.23,23.68,Low,No Action
+53.6,22.14,62.96,Low,No Action
+80.78,42.25,81.46,Low,No Action
+51.89,29.04,44.51,Low,No Action
+61.12,28.99,46.22,Low,No Action
+13.02,37.82,64.73,High,Irrigation Needed
+72.97,19.63,40.57,Low,No Action
+16.49,29.62,22.0,High,Irrigation Needed
+79.35,27.9,75.14,Low,No Action
+75.38,32.91,66.92,High,Irrigation Needed
+68.79,44.99,63.56,Low,No Action
+8.25,38.08,75.63,High,Irrigation Needed
+32.28,26.94,70.64,Medium,Monitor
+28.68,39.83,35.44,High,Irrigation Needed
+37.41,20.12,46.44,Medium,Monitor
+12.89,15.91,29.46,High,Irrigation Needed
+89.33,21.13,29.74,Low,No Action
+54.84,25.21,70.71,Low,No Action
+32.5,30.32,84.4,Medium,Monitor
+40.73,33.45,92.2,Medium,Monitor
+45.25,42.32,67.13,Low,No Action
+59.05,30.3,33.81,Low,No Action
+51.41,30.04,27.92,Low,No Action
+87.75,16.51,80.96,Low,No Action
+49.73,16.05,63.41,Low,No Action
+94.29,31.53,66.37,Low,No Action
+81.63,28.15,78.61,Low,No Action
+23.77,40.18,72.75,High,Irrigation Needed
+88.75,19.82,82.58,Low,No Action
+15.47,15.75,24.22,High,Irrigation Needed
+78.57,28.47,76.06,Low,No Action
+39.26,22.12,83.81,Medium,Monitor
+84.02,16.49,41.46,Low,No Action
+83.13,36.74,68.03,Low,No Action
+77.53,18.35,43.56,Low,No Action
+76.1,33.25,91.85,Low,No Action
+32.42,23.43,22.51,Medium,Monitor
+12.28,20.2,63.48,Medium,Monitor
+41.27,26.39,32.49,Low,No Action
+20.62,39.04,73.42,High,Irrigation Needed
+67.55,26.76,33.19,Low,No Action
+36.15,37.52,37.65,Medium,Monitor
+92.8,18.76,57.08,Low,No Action
+62.69,38.18,88.61,Low,No Action
+79.02,22.11,35.88,Low,No Action
+16.93,35.32,30.82,High,Irrigation Needed
+82.58,31.97,76.92,Low,No Action
+88.05,42.87,57.55,Low,No Action
+48.84,26.62,88.38,Low,No Action
+59.56,16.98,31.0,Low,No Action
+73.83,15.57,68.44,Low,No Action
+20.74,39.81,37.47,High,Irrigation Needed
+50.23,30.74,31.76,Low,No Action
+40.88,38.26,71.26,Medium,Monitor
+18.17,22.03,64.53,Medium,Monitor
+38.08,25.35,76.61,Medium,Monitor
+11.14,15.9,43.21,High,Irrigation Needed
+7.32,43.84,53.6,High,Irrigation Needed
+17.16,35.04,50.41,High,Irrigation Needed
+91.68,43.0,93.81,Low,No Action
+54.46,22.96,41.92,Low,No Action
+91.92,33.34,42.11,Low,No Action
+43.92,35.35,46.59,Medium,Monitor
+33.06,24.53,62.34,Medium,Monitor
+50.55,40.44,38.92,Low,No Action
+44.56,43.41,88.65,Medium,Monitor
+14.51,41.55,39.93,High,Irrigation Needed
+62.67,37.17,87.19,Low,No Action
+24.44,23.32,27.76,High,Irrigation Needed
+60.76,23.45,69.24,Low,No Action
+63.52,43.9,88.02,Low,No Action
+18.68,15.31,32.66,High,Irrigation Needed
+10.52,36.48,92.62,High,Irrigation Needed
+75.27,36.19,53.97,Low,No Action
+46.38,33.68,90.93,Low,No Action
+10.23,44.7,70.76,High,Irrigation Needed
+94.54,24.36,42.62,Low,No Action
+10.2,25.2,34.12,High,Irrigation Needed
+67.55,17.37,42.78,High,Irrigation Needed
+93.53,28.28,26.98,Low,No Action
+26.53,22.83,30.79,High,Irrigation Needed
+17.8,25.3,27.85,High,Irrigation Needed
+15.92,40.04,51.72,High,Irrigation Needed
+32.29,43.06,79.67,Medium,Monitor
+14.09,20.57,30.6,High,Irrigation Needed
+67.29,26.18,29.77,Low,No Action
+10.61,42.86,68.26,High,Irrigation Needed
+50.85,16.85,34.79,Low,No Action
+94.7,17.77,27.32,Low,No Action
+78.26,19.88,32.51,Low,No Action
+60.37,32.86,89.28,Low,No Action
+32.56,19.51,81.61,Medium,Monitor
+61.15,44.04,46.55,Low,No Action
+52.43,28.4,69.19,Low,No Action
+43.35,30.05,60.3,Low,No Action
+16.76,22.4,70.78,Medium,Monitor
+84.79,29.13,71.2,Low,No Action
+45.48,34.86,67.16,Low,No Action
+22.52,37.54,39.96,High,Irrigation Needed
+38.1,37.62,22.93,Medium,Monitor
+42.27,32.34,54.17,Medium,Monitor
+79.48,42.13,86.82,Low,No Action
+71.03,39.52,62.71,Low,No Action
+74.24,37.71,82.43,Low,No Action
+5.99,16.67,94.37,Medium,Monitor
+42.45,15.21,32.27,Low,No Action
+48.32,21.37,71.88,Low,No Action
+6.73,34.91,70.57,High,Irrigation Needed
+28.38,27.34,93.5,Medium,Monitor
+73.43,27.07,93.92,Low,No Action
+17.34,41.54,71.5,High,Irrigation Needed
+53.18,41.87,38.27,Low,No Action
+24.37,42.28,79.89,High,Irrigation Needed
+6.09,24.42,28.03,High,Irrigation Needed
+26.71,35.73,78.55,High,Irrigation Needed
+92.83,23.15,88.26,Low,No Action
+77.14,20.72,48.71,Low,No Action
+91.36,20.54,67.3,Low,No Action
+48.91,25.26,52.26,Low,No Action
+14.88,27.9,52.83,Medium,Monitor
+54.32,39.93,43.28,Low,No Action
+45.89,18.6,77.16,Low,No Action
+80.99,37.05,90.21,Low,No Action
+13.83,30.94,90.56,High,Irrigation Needed
+48.94,23.64,33.11,Low,No Action
+18.5,29.78,85.61,Medium,Monitor
+34.22,24.0,75.31,Medium,Monitor
+71.36,32.88,38.96,Low,No Action
+47.84,28.02,25.05,Low,No Action
+38.83,19.93,40.1,Medium,Monitor
+40.5,18.5,88.42,Low,No Action
+46.35,31.4,67.49,Low,No Action
+75.65,42.07,74.08,Low,No Action
+85.29,25.32,39.29,Low,No Action
+90.98,36.99,73.95,Low,No Action
+75.82,34.76,22.11,Low,No Action
+33.39,42.95,48.15,Medium,Monitor
+66.93,39.63,67.01,Low,No Action
+44.38,32.0,30.96,Low,No Action
+27.92,34.71,81.73,High,Irrigation Needed
+80.68,41.95,37.63,Low,No Action
+8.46,26.99,68.92,Medium,Monitor
+86.16,24.8,50.39,Low,No Action
+46.53,15.32,64.7,Low,No Action
+62.35,39.8,28.06,Low,No Action
+64.34,39.03,21.27,Low,No Action
+85.56,18.13,88.22,Low,No Action
+62.3,32.31,40.22,Low,No Action
+60.25,28.92,81.48,Low,No Action
+11.0,18.56,94.95,Medium,Monitor
+51.66,44.42,35.86,Low,No Action
+18.52,21.44,39.89,Medium,Monitor
+71.37,17.02,69.71,Low,No Action
+51.1,32.85,92.41,Low,No Action
+66.22,37.17,88.69,Low,No Action
+8.75,15.97,57.72,Medium,Monitor
+12.63,34.76,79.63,High,Irrigation Needed
+69.47,30.97,30.18,Low,No Action
+11.49,18.1,93.31,Medium,Monitor
+11.41,20.18,92.33,Medium,Monitor
+6.09,32.04,32.28,High,Irrigation Needed
+91.09,23.89,42.46,Low,No Action
+71.38,43.15,27.51,Low,No Action
+36.79,39.56,40.38,Low,No Action
+31.69,44.51,81.2,Medium,Monitor
+36.47,22.79,48.37,Medium,Monitor
+74.72,44.09,26.63,Low,No Action
+64.52,27.94,45.67,Low,No Action
+21.67,25.43,93.6,Medium,Monitor
+20.67,16.51,67.23,High,Irrigation Needed
+13.86,16.58,51.21,Medium,Monitor
+64.43,35.76,32.49,Low,No Action
+73.79,28.74,93.96,Low,No Action
+28.85,21.8,81.56,Medium,Monitor
+6.89,33.42,41.11,Medium,Monitor
+12.4,22.59,25.26,High,Irrigation Needed
+92.11,32.33,24.25,Medium,Monitor
+31.59,25.78,29.03,Medium,Monitor
+74.23,39.71,63.56,Low,No Action
+61.22,39.62,89.66,Low,No Action
+39.37,29.32,57.26,Medium,Monitor
+23.51,25.52,83.22,Medium,Monitor
+15.92,25.88,53.44,Medium,Monitor
+60.35,39.17,73.14,Low,No Action
+74.72,24.85,74.89,Low,No Action
+62.95,21.27,33.05,Low,No Action
+52.73,17.54,47.09,Low,No Action
+8.78,29.0,67.8,Medium,Monitor
+92.16,29.46,25.3,Low,No Action
+76.88,40.23,47.12,Low,No Action
+31.35,21.64,60.11,Medium,Monitor
+93.2,26.43,94.72,Low,No Action
+59.17,39.25,55.59,Low,No Action
+57.42,39.71,81.2,Low,No Action
+72.33,26.54,52.41,Low,No Action
+78.06,28.77,79.73,Low,No Action
+64.08,24.1,64.66,Low,No Action
+16.53,42.98,86.49,High,Irrigation Needed
+35.44,18.56,50.82,Medium,Monitor
+88.53,43.01,65.32,Low,No Action
+25.22,35.52,67.25,High,Irrigation Needed
+38.5,30.95,51.3,Low,No Action
+43.89,15.98,30.82,Low,No Action
+44.55,29.27,27.02,Low,No Action
+60.16,27.23,21.25,Low,No Action
+89.88,19.84,85.52,Low,No Action
+26.66,34.69,37.74,High,Irrigation Needed
+15.94,44.13,35.86,High,Irrigation Needed
+22.77,31.87,75.2,High,Irrigation Needed
+84.82,36.44,44.0,Low,No Action
+63.12,17.05,57.95,Low,No Action
+30.73,27.53,32.19,Medium,Monitor
+78.44,18.49,91.98,Low,No Action
+82.52,33.38,83.87,Low,No Action
+81.19,43.15,84.78,Low,No Action
+87.7,34.85,50.51,Low,No Action
+27.7,17.3,77.18,Medium,Monitor
+72.95,25.64,30.79,Low,No Action
+46.45,31.52,20.65,High,Irrigation Needed
+80.78,27.1,21.5,Low,No Action
+70.56,40.01,64.0,Low,No Action
+74.88,39.44,54.15,Low,No Action
+64.05,33.35,58.85,Low,No Action
+20.97,26.2,20.56,High,Irrigation Needed
+54.05,22.66,51.7,Low,No Action
+93.62,18.18,73.86,Low,No Action
+89.36,25.65,53.2,Low,No Action
+8.89,27.4,74.92,Medium,Monitor
+19.83,35.27,37.48,High,Irrigation Needed
+16.86,34.74,80.99,High,Irrigation Needed
+70.34,17.1,64.13,Low,No Action
+78.6,26.86,35.81,Low,No Action
+24.22,20.45,37.75,High,Irrigation Needed
+50.53,19.7,67.1,Low,No Action
+80.66,39.82,82.25,Low,No Action
+70.95,16.26,51.17,Low,No Action
+53.8,27.58,39.37,Low,No Action
+58.13,20.05,85.03,Low,No Action
+50.75,41.38,70.2,Low,No Action
+31.78,31.71,53.61,Medium,Monitor
+55.85,21.94,56.59,Low,No Action
+67.0,30.07,35.32,Low,No Action
+83.6,36.94,67.01,Low,No Action
+62.27,43.74,46.91,Low,No Action
+73.5,21.61,94.67,Low,No Action
+19.41,41.59,56.01,High,Irrigation Needed
+46.54,43.03,56.44,Low,No Action
+5.84,42.49,62.44,High,Irrigation Needed
+27.2,34.06,88.76,High,Irrigation Needed
+70.38,33.89,80.06,Low,No Action
+94.26,27.1,53.83,Low,No Action
+13.93,37.57,73.9,High,Irrigation Needed
+41.13,30.94,63.97,Low,No Action
+77.01,35.32,56.93,Low,No Action
+23.36,27.85,34.42,High,Irrigation Needed
+54.96,36.94,54.8,Low,No Action
+70.98,39.73,38.44,Low,No Action
+60.44,19.39,88.61,Low,No Action
+21.92,39.99,45.16,High,Irrigation Needed
+36.98,31.21,91.42,Medium,Monitor
+75.54,40.34,59.98,Medium,Monitor
+54.88,27.94,67.37,Medium,Monitor
+5.47,26.37,60.72,Medium,Monitor
+73.49,42.45,29.7,Low,No Action
+8.18,22.54,48.19,High,Irrigation Needed
+72.12,40.33,27.44,Low,No Action
+23.22,29.52,66.72,Medium,Monitor
+91.23,30.42,53.52,Low,No Action
+38.11,24.25,78.35,Medium,Monitor
+34.42,32.19,36.54,Medium,Monitor
+18.4,24.76,32.34,High,Irrigation Needed
+32.5,16.18,50.47,Medium,Monitor
+83.9,23.16,89.49,Low,No Action
+94.67,15.19,73.28,Low,No Action
+38.15,44.35,51.42,Medium,Monitor
+45.37,43.97,58.8,Low,No Action
+69.99,26.85,26.32,Low,No Action
+84.76,36.85,93.84,Low,No Action
+58.37,25.37,69.98,Low,No Action
+40.24,35.13,41.41,Medium,Monitor
+42.14,39.16,63.94,Medium,Monitor
+67.61,43.4,28.21,Low,No Action
+5.29,27.01,92.44,Medium,Monitor
+60.76,38.5,33.11,Low,No Action
+36.99,22.98,68.6,Medium,Monitor
+76.48,44.71,38.41,Low,No Action
+13.37,15.77,73.82,Medium,Monitor
+57.94,33.11,78.26,Low,No Action
+48.29,34.79,70.51,Low,No Action
+62.81,35.64,66.09,Low,No Action
+10.84,18.61,86.94,Medium,Monitor
+57.2,43.16,25.9,Low,No Action
+55.53,20.44,44.82,Low,No Action
+55.46,33.68,38.62,Low,No Action
+59.31,21.68,94.1,Low,No Action
+65.88,24.22,49.2,Low,No Action
+77.45,31.39,74.95,Low,No Action
+29.28,27.52,71.35,Medium,Monitor
+79.25,19.81,35.91,Low,No Action
+49.84,20.13,37.92,Low,No Action
+11.94,27.54,41.1,High,Irrigation Needed
+10.27,37.72,50.83,High,Irrigation Needed
+35.08,41.94,37.57,Low,No Action
+75.64,17.52,21.47,Low,No Action
+68.69,26.79,85.95,Low,No Action
+75.98,18.01,92.42,Low,No Action
+51.55,15.5,45.62,Low,No Action
+44.62,34.85,45.39,Medium,Monitor
+18.27,33.07,20.53,High,Irrigation Needed
+34.54,19.89,71.02,Medium,Monitor
+44.06,22.01,81.91,Low,No Action
+12.97,15.71,31.0,High,Irrigation Needed
+24.86,40.05,31.97,High,Irrigation Needed
+58.84,44.24,79.26,Low,No Action
+71.21,19.06,66.22,Low,No Action
+94.85,21.94,23.36,Low,No Action
+88.98,41.05,66.69,Low,No Action
+62.83,42.79,43.17,Low,No Action
+42.91,27.59,47.65,Low,No Action
+62.26,16.52,77.73,Low,No Action
+75.71,16.18,80.82,Low,No Action
+15.65,32.22,50.03,High,Irrigation Needed
+41.89,26.79,91.04,Low,No Action
+80.58,15.86,50.48,Low,No Action
+39.54,32.5,77.89,Medium,Monitor
+56.47,15.34,56.29,Low,No Action
+57.9,38.62,87.31,Low,No Action
+21.6,24.19,88.08,Medium,Monitor
+37.6,16.21,26.56,Medium,Monitor
+35.11,32.65,90.24,Medium,Monitor
+7.36,26.93,81.92,Medium,Monitor
+7.18,44.21,79.35,High,Irrigation Needed
+79.85,31.33,35.07,Low,No Action
+29.58,23.26,80.38,Medium,Monitor
+51.63,36.28,83.76,High,Irrigation Needed
+31.89,23.14,41.69,Medium,Monitor
+89.66,42.13,91.42,Low,No Action
+28.34,26.24,23.74,High,Irrigation Needed
+43.67,31.5,31.24,Low,No Action
+83.55,16.52,60.32,Low,No Action
+80.77,27.78,63.18,Low,No Action
+21.75,39.97,68.39,High,Irrigation Needed
+77.24,39.17,21.27,Low,No Action
+46.24,21.73,92.03,Low,No Action
+48.47,21.78,23.34,Low,No Action
+17.01,39.52,30.73,High,Irrigation Needed
+12.25,42.91,21.05,High,Irrigation Needed
+70.51,17.86,62.51,Low,No Action
+49.68,28.5,89.92,Low,No Action
+44.32,25.12,69.95,Low,No Action
+70.66,41.12,81.7,Low,No Action
+73.9,17.51,21.0,Low,No Action
+19.3,21.33,60.65,Medium,Monitor
+59.92,37.57,54.47,Low,No Action
+17.18,16.54,57.42,Medium,Monitor
+72.62,29.78,25.42,Low,No Action
+64.13,28.26,71.33,Low,No Action
+91.1,25.03,57.74,High,Irrigation Needed
+11.21,26.84,77.39,Medium,Monitor
+10.13,30.9,56.4,High,Irrigation Needed
+30.4,19.84,31.2,Medium,Monitor
